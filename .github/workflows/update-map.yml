@@ -1,0 +1,97 @@
+# Rebuilds the St. Louis events map every morning and publishes it with GitHub Pages.
+# Nothing to run on your computer: GitHub runs this on its own servers.
+name: Update map
+
+on:
+  schedule:
+    - cron: "23 10 * * *"      # every day at 10:23 UTC (about 5 am in St. Louis)
+  workflow_dispatch:           # lets you start it by hand from the Actions tab
+  push:
+    branches: [main]           # also rebuilds when you change the code
+
+permissions:
+  contents: write              # to save the freshly collected events back to the repository
+  pages: write                 # to publish the site
+  id-token: write              # needed by the Pages deploy step
+
+# Only one build at a time; a newer one waits for the older one to finish.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+env:
+  TZ: America/Chicago          # so "today" means today in St. Louis
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Collect events
+        run: python update.py
+
+      - name: Check the result is fresh
+        run: |
+          python - <<'PY'
+          import json, sys
+          from datetime import date
+          d = json.load(open("web/data/events.json"))
+          n = len(d.get("events", []))
+          day = d.get("generated_at", "")[:10]
+          print(f"events.json: {n} events, generated {day}")
+          if day != date.today().isoformat():
+              sys.exit("events.json was not refreshed today, so the scrape failed (see the log above).")
+          if n < 5:
+              sys.exit("Fewer than 5 events were found, which is almost certainly a failed scrape.")
+          PY
+
+      - name: Save the new data in the repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add web/data
+          if [ -f data/geocode_cache.json ]; then git add data/geocode_cache.json; fi
+          git diff --cached --quiet || git commit -m "Update events $(date +%F)"
+          git push || { git pull --rebase && git push; }
+
+      - name: Keep the logs of a failed run
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug
+          path: debug/
+          retention-days: 7
+          if-no-files-found: ignore
+
+      - uses: actions/configure-pages@v5
+
+      - name: Collect the site files
+        run: |
+          mkdir _site
+          cp -r web/. _site/
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
