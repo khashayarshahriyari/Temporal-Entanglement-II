@@ -1,5 +1,5 @@
 window.TE_DATA = {
- "generated_at": "2026-11-19T13:49",
+ "generated_at": "2026-11-19T15:05",
  "window": {
   "start": "2026-11-19",
   "end": "2026-12-17"
@@ -154,7 +154,7 @@ window.TE_DATA = {
    "short": "WashU Music",
    "url": "https://music.washu.edu/events",
    "count": 14,
-   "parsed": 120,
+   "parsed": 143,
    "strategy": "ics/static",
    "error": "",
    "note": "Times and places come from the department's calendar feed; event-page links from the listing. Events with no place in the feed are pinned at the Music Center (approximate).; 1 of 14 events in range: no page link found on the listing (they link to the calendar); 1 cancelled event(s) skipped"
@@ -164,8 +164,8 @@ window.TE_DATA = {
    "name": "Counterpublic 2026",
    "short": "Counterpublic",
    "url": "https://counterpublic.org/events/",
-   "count": 9,
-   "parsed": 10,
+   "count": 10,
+   "parsed": 11,
    "strategy": "links/static",
    "error": "",
    "note": "Events are spread across the triennial's sites; ones with no place listed are pinned at the Carriage House."
@@ -175,11 +175,11 @@ window.TE_DATA = {
    "name": "Saint Louis Art Museum",
    "short": "SLAM",
    "url": "https://www.slam.org/events/",
-   "count": 35,
-   "parsed": 109,
+   "count": 34,
+   "parsed": 70,
    "strategy": "jsonld/static",
    "error": "",
-   "note": "2 cancelled event(s) skipped"
+   "note": "1 cancelled event(s) skipped"
   }
  ],
  "events": [
@@ -2680,6 +2680,27 @@ window.TE_DATA = {
    "also_on_ids": []
   },
   {
+   "id": "3bf0c55732",
+   "title": "Conversation: Sebastián Llovera + Jorge Rivas",
+   "venue_id": "counterpublic",
+   "venue": "Counterpublic 2026",
+   "location": "Counterpublic Carriage House",
+   "address": "3733 Washington Ave, St. Louis, MO",
+   "lat": 38.6310334,
+   "lng": -90.1932675,
+   "approx": false,
+   "start": "2026-12-02T18:00",
+   "end": "2026-12-02T19:00",
+   "has_time": true,
+   "all_day": false,
+   "doors": null,
+   "url": "https://counterpublic.org/event/conversation-llovera-rivas/",
+   "ongoing": false,
+   "confidence": "card",
+   "also_on": [],
+   "also_on_ids": []
+  },
+  {
    "id": "03980575db",
    "title": "sandalwood",
    "venue_id": "dissonant-works",
@@ -3184,27 +3205,6 @@ window.TE_DATA = {
    "url": "https://counterpublic.org/event/the-peoples-ball/",
    "ongoing": false,
    "confidence": "card",
-   "also_on": [],
-   "also_on_ids": []
-  },
-  {
-   "id": "c698dfa573",
-   "title": "Drop-in Collection Tour—Gratitude and Gathering in Art",
-   "venue_id": "slam",
-   "venue": "Saint Louis Art Museum",
-   "location": "Saint Louis Art Museum",
-   "address": "1 Fine Arts Dr, St. Louis, MO 63110",
-   "lat": 38.6394679,
-   "lng": -90.2944031,
-   "approx": false,
-   "start": "2026-12-05T13:00",
-   "end": "2026-12-05T14:00",
-   "has_time": true,
-   "all_day": false,
-   "doors": null,
-   "url": "https://www.slam.org/event/drop-in-collection-tour-gratitude-and-gathering-in-art-2/2026-12-05/",
-   "ongoing": false,
-   "confidence": "structured",
    "also_on": [],
    "also_on_ids": []
   },
