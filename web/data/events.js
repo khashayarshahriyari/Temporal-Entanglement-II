@@ -1,5 +1,5 @@
 window.TE_DATA = {
- "generated_at": "2026-11-19T13:47",
+ "generated_at": "2026-11-19T13:49",
  "window": {
   "start": "2026-11-19",
   "end": "2026-12-17"
