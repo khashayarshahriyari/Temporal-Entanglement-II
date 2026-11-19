@@ -45,7 +45,9 @@
     $("range").textContent = "no data yet";
     $("heading").textContent = "No events loaded";
     var e0 = $("empty"); e0.hidden = false;
-    e0.textContent = "Run  bash run.sh  (or  python3 update.py ) to collect events, then reload this page.";
+    e0.textContent = /^(localhost|127\.0\.0\.1|\[::1\]|)$/.test(location.hostname)
+      ? "Run  bash run.sh  (or  python3 update.py ) to collect events, then reload this page."
+      : "The events are not available yet. The map updates itself every morning.";
     return;
   }
 
@@ -90,7 +92,9 @@
   var banner = $("banner");
   if (todayKey > days[days.length - 1]) {
     banner.hidden = false;
-    banner.textContent = "This data ends " + shortDay(days[days.length - 1]) + ". Run update.py to refresh it.";
+    var local = /^(localhost|127\.0\.0\.1|\[::1\]|)$/.test(location.hostname);
+    banner.textContent = "This data ends " + shortDay(days[days.length - 1]) + "." +
+      (local ? " Run update.py to refresh it." : " The map updates itself every morning; try again later.");
   } else if (todayKey < days[0]) {
     banner.hidden = false;
     banner.textContent = "This data starts " + shortDay(days[0]) + ".";
