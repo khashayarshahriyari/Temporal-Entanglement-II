@@ -133,6 +133,24 @@
   // ---------- map ----------
   var map = L.map("map", { zoomControl: false, zoomSnap: 0.5 }).setView([38.627, -90.199], 12);
   L.control.zoom({ position: "bottomright" }).addTo(map);
+
+  // On a phone the map sits above the list inside a page that scrolls. One finger would pan the map and
+  // trap the page, so there one finger scrolls the page and two fingers move/zoom the map.
+  var phoneLayout = window.matchMedia("(pointer: coarse) and (max-width: 820px)");
+  var syncDrag = function () { if (phoneLayout.matches) map.dragging.disable(); else map.dragging.enable(); };
+  syncDrag();
+  if (phoneLayout.addEventListener) phoneLayout.addEventListener("change", syncDrag); else phoneLayout.addListener(syncDrag);
+  var mapHint = document.createElement("div");
+  mapHint.className = "map-hint";
+  mapHint.textContent = "Use two fingers to move the map";
+  $("map").appendChild(mapHint);
+  var mapHintTimer = null;
+  $("map").addEventListener("touchstart", function (e) {
+    if (!phoneLayout.matches || e.touches.length !== 1) return;
+    mapHint.classList.add("on");
+    clearTimeout(mapHintTimer);
+    mapHintTimer = setTimeout(function () { mapHint.classList.remove("on"); }, 1400);
+  }, { passive: true });
   var cfg = window.TE_MAP || {};
   var tileUrl = cfg.tiles || "https://tile.openstreetmap.org/{z}/{x}/{y}.png";
   var tileAttr = cfg.attribution || '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors';
@@ -235,7 +253,8 @@
     var m = markerOf[id];
     if (m && m.getElement()) { var p = m.getElement().querySelector(".pin"); if (p) p.classList.add("on"); }
     var li = document.querySelector('.ev[data-id="' + id + '"]');
-    if (li && !fromList) li.scrollIntoView({ block: "nearest", behavior: "smooth" });
+    // (on a phone the list sits below the map, so don't yank the page away from the map)
+    if (li && !fromList && !window.matchMedia("(max-width: 820px)").matches) li.scrollIntoView({ block: "nearest", behavior: "smooth" });
   }
 
   function card(ev, day) {
@@ -402,4 +421,23 @@
   var start = /^\d{4}-\d{2}-\d{2}$/.test(fromHash) ? fromHash : (inWindow ? todayKey : days[0]);
   select(start, true);
   window.addEventListener("load", function () { map.invalidateSize(); });
+
+  // When this page is shown inside another page on a phone, tell that page how tall it is so the whole
+  // page scrolls naturally (0 = use your own height; used on wide screens).
+  if (window.parent && window.parent !== window) {
+    var narrow = window.matchMedia("(max-width: 820px)");
+    var appEl = $("app"), lastSent = -1, queued = false;
+    var report = function () {
+      queued = false;
+      var h = narrow.matches ? Math.ceil(appEl.getBoundingClientRect().height) : 0;
+      if (h === lastSent) return;
+      lastSent = h;
+      try { window.parent.postMessage({ type: "te:height", height: h }, "*"); } catch (e) { /* ignore */ }
+    };
+    var queue = function () { if (!queued) { queued = true; window.requestAnimationFrame(report); } };
+    if (window.ResizeObserver) new ResizeObserver(queue).observe(appEl);
+    window.addEventListener("resize", queue);
+    window.addEventListener("load", queue);
+    queue();
+  }
 })();
