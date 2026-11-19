@@ -1,0 +1,57 @@
+{
+ "events": [
+  {
+   "title": "Talk: Jane Panetta on Juanita McNeely",
+   "url": "https://www.grandcenter.org/event/talk-jane-panetta-on-juanita-mcneely/",
+   "start_date": "2026-11-19 18:00:00",
+   "end_date": "2026-11-19 20:00:00",
+   "all_day": false,
+   "venue": {
+    "venue": "Contemporary Art Museum",
+    "address": "3750 Washington Blvd",
+    "city": "St. Louis",
+    "state": "MO",
+    "zip": "63108"
+   }
+  },
+  {
+   "title": "Marcus Roberts &#038; The Modern Jazz Generation",
+   "url": "https://www.grandcenter.org/event/marcus-roberts/2026-11-19/",
+   "start_date": "2026-11-19 19:30:00",
+   "end_date": "2026-11-19 20:30:00",
+   "all_day": false,
+   "venue": {
+    "venue": "Jazz St. Louis",
+    "address": "3536 Washington Ave",
+    "city": "St. Louis",
+    "state": "MO",
+    "zip": "63103",
+    "geo_lat": "38.6379",
+    "geo_lng": "-90.2305"
+   }
+  },
+  {
+   "title": "Weirdly Wonderful Holidays",
+   "url": "https://citymuseum.org/event/ww-holidays/",
+   "start_date": "2026-11-19 00:00:00",
+   "end_date": "2027-01-03 23:59:00",
+   "all_day": true,
+   "venue": []
+  },
+  {
+   "title": "Artist Talk at Webster University",
+   "url": "https://camstl.org/event/artist-talk/",
+   "start_date": "2026-11-20 12:00:00",
+   "end_date": "2026-11-20 13:00:00",
+   "all_day": false,
+   "venue": {
+    "venue": "Sverdrup Hall 123",
+    "address": "8300 Big Bend Boulevard",
+    "city": "Webster Groves",
+    "state": "MO",
+    "zip": "63119"
+   }
+  }
+ ],
+ "next_rest_url": null
+}

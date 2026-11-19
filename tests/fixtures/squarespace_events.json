@@ -1,0 +1,37 @@
+{
+ "upcoming": [
+  {
+   "title": "Sauce Magazine presents Makers in the Garden",
+   "fullUrl": "/calendar/2026/11/20/sauce-magazine-presents-makers-in-the-garden",
+   "startDate": 1795212000000,
+   "endDate": 1795226400000,
+   "location": {
+    "addressTitle": "Tower Grove Park",
+    "addressLine1": "",
+    "mapLat": 40.7207559,
+    "mapLng": -74.000104
+   }
+  },
+  {
+   "title": "The Science and Art of Soap Making, Session 1",
+   "fullUrl": "/calendar/2026/11/21/soap-1",
+   "startDate": 1795276800000,
+   "endDate": 1795287600000,
+   "location": {
+    "addressTitle": "Stupp Center",
+    "addressLine1": "",
+    "mapLat": 40.7207559,
+    "mapLng": -74.000104
+   }
+  },
+  {
+   "title": "Dutch Oven Friendsgiving (CANCELLED)",
+   "fullUrl": "/calendar/2026/11/21/dutch",
+   "startDate": 1795280400000,
+   "endDate": 1795289400000,
+   "location": {}
+  }
+ ],
+ "past": [],
+ "pagination": {}
+}

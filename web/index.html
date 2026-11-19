@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Temporal Entanglements · St. Louis</title>
+  <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app">
+    <aside id="panel">
+      <header>
+        <h1>Temporal Entanglements</h1>
+        <p class="sub">St. Louis cultural events &middot; <span id="range"></span></p>
+      </header>
+
+      <div id="banner" hidden></div>
+      <div id="tilenote" hidden></div>
+
+      <section class="controls" aria-label="Choose a day">
+        <div class="datebar">
+          <button id="prev" type="button" aria-label="Previous day">&lsaquo;</button>
+          <input id="date" type="date" aria-label="Date">
+          <button id="next" type="button" aria-label="Next day">&rsaquo;</button>
+          <button id="today" type="button">Today</button>
+        </div>
+        <div id="strip" role="group" aria-label="Days in range"></div>
+        <label class="toggle">
+          <input type="checkbox" id="ongoing">
+          <span>Include ongoing runs &amp; exhibitions</span>
+        </label>
+      </section>
+
+      <details id="orgs" open>
+        <summary><span>Organizations</span><span id="orgs-sum"></span></summary>
+        <div class="orgs-body">
+          <div class="orgs-actions">
+            <button type="button" id="orgs-all">All</button>
+            <button type="button" id="orgs-none">None</button>
+            <span class="hint">double-click a name to show only that one</span>
+          </div>
+          <div id="org-chips" role="group" aria-label="Show events from"></div>
+        </div>
+      </details>
+
+      <div class="listhead">
+        <h2 id="heading"></h2>
+        <span id="count"></span>
+      </div>
+      <div id="listwrap">
+        <ol id="list"></ol>
+        <div id="ongoing-block" hidden>
+          <h3 class="sub-heading">Ongoing</h3>
+          <ol id="ongoing-list"></ol>
+        </div>
+        <p id="empty" hidden></p>
+      </div>
+
+      <details id="sources">
+        <summary><span>Sources</span><span id="updated"></span></summary>
+        <ul id="source-list"></ul>
+      </details>
+    </aside>
+
+    <main id="map" aria-label="Map of St. Louis events"></main>
+  </div>
+
+  <script src="vendor/leaflet/leaflet.js"></script>
+  <script src="config.js"></script>
+  <script src="data/events.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
