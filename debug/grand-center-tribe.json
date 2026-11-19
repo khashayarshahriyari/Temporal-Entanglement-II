@@ -1,0 +1,5396 @@
+{
+ "events": [
+  {
+   "id": 36257,
+   "global_id": "www.grandcenter.org?id=36257",
+   "global_id_lineage": [
+    "www.grandcenter.org?id=36257"
+   ],
+   "author": "11",
+   "status": "publish",
+   "date": "2026-11-03 09:44:27",
+   "date_utc": "2026-11-03 15:44:27",
+   "modified": "2026-11-03 09:44:27",
+   "modified_utc": "2026-11-03 15:44:27",
+   "url": "https://www.grandcenter.org/event/andy-waggoner-friends-2/",
+   "rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/36257",
+   "title": "Andy Waggoner &#038; Friends",
+   "description": "<p>As a soloist and pianist, Andy has performed at The Sheldon Concert Hall, Jazz at the Bistro, and the Kranzberg Arts Center, and served as tenor soloist with the St. Louis Symphony Orchestra for the 2003 Holiday Pops Concerts.</p>",
+   "excerpt": "",
+   "slug": "andy-waggoner-friends-2",
+   "image": {
+    "url": "https://www.grandcenter.org/wp-content/uploads/2026/11/Andy-791x791-3bd7ed8964.png",
+    "id": 36258,
+    "extension": "png",
+    "width": 791,
+    "height": 791,
+    "filesize": 768902,
+    "sizes": {
+     "medium": {
+      "width": 300,
+      "height": 300,
+      "mime-type": "image/png",
+      "filesize": 126859,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/11/Andy-791x791-3bd7ed8964-300x300.png"
+     },
+     "thumbnail": {
+      "width": 150,
+      "height": 150,
+      "mime-type": "image/png",
+      "filesize": 38392,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/11/Andy-791x791-3bd7ed8964-150x150.png"
+     },
+     "medium_large": {
+      "width": 768,
+      "height": 768,
+      "mime-type": "image/png",
+      "filesize": 638575,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/11/Andy-791x791-3bd7ed8964-768x768.png"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2026-12-01 19:00:00",
+   "start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "01",
+    "hour": "19",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "end_date": "2026-12-01 21:00:00",
+   "end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "01",
+    "hour": "21",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_start_date": "2026-12-02 01:00:00",
+   "utc_start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "02",
+    "hour": "01",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_end_date": "2026-12-02 03:00:00",
+   "utc_end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "02",
+    "hour": "03",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "timezone": "America/Chicago",
+   "timezone_abbr": "CST",
+   "cost": "$10 \u2013 $20",
+   "cost_details": {
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": [
+     "10",
+     "20"
+    ]
+   },
+   "website": "https://metrotix.evenue.net/events/SHE01DEC26?_gl=1*1tvypox*_gcl_au*ODczMDY1NTkyLjE3ODg1MzQwODM.*_ga*NzU0MTI1NzQyLjE3NTkyNDQ1NjY.*_ga_RZKZ6QSHCL*czE3OTM3MjAwNTEkbzI2JGcxJHQxNzkzNzIwNTQ4JGo0OSRsMCRoMA..",
+   "show_map": false,
+   "show_map_link": true,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Music",
+     "slug": "music",
+     "term_group": 0,
+     "term_taxonomy_id": 14,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 1544,
+     "filter": "raw",
+     "id": 14,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/14",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 9384,
+    "author": "2",
+    "status": "publish",
+    "date": "2020-06-02 00:47:34",
+    "date_utc": "2020-06-02 05:47:34",
+    "modified": "2021-10-14 15:40:58",
+    "modified_utc": "2021-10-14 20:40:58",
+    "url": "https://www.grandcenter.org/venue/sheldon-concert-hall-art-galleries/",
+    "venue": "Sheldon Concert Hall &#038; Art Galleries",
+    "description": "<p>This world-renowned concert hall, known for its perfect acoustics, treats audiences to a wide range of musical performances, while the Sheldon Art Galleries offers 7,000 square feet of gallery space celebrating architecture, photography, music and sound, children&#8217;s art and so much more.</p>\n<p><strong>Amenities:</strong><br />\nGallery, Event Space, Live Music</p>",
+    "slug": "sheldon-concert-hall-art-galleries",
+    "image": {
+     "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/sheldon.jpg",
+     "id": 9977,
+     "extension": "jpg",
+     "width": 2400,
+     "height": 1600,
+     "sizes": {
+      "medium": {
+       "width": 300,
+       "height": 200,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/sheldon-300x200.jpg"
+      },
+      "large": {
+       "width": 1024,
+       "height": 683,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/sheldon-1024x683.jpg"
+      },
+      "thumbnail": {
+       "width": 150,
+       "height": 150,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/sheldon-150x150.jpg"
+      },
+      "medium_large": {
+       "width": 768,
+       "height": 512,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/sheldon-768x512.jpg"
+      },
+      "1536x1536": {
+       "width": 1536,
+       "height": 1024,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/sheldon-1536x1024.jpg"
+      },
+      "2048x2048": {
+       "width": 2048,
+       "height": 1365,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/sheldon-2048x1365.jpg"
+      }
+     }
+    },
+    "address": "3648 Washington Blvd",
+    "city": "St. Louis",
+    "country": "United States",
+    "state": "MO",
+    "website": "https://www.thesheldon.org/",
+    "stateprovince": "MO",
+    "show_map": false,
+    "show_map_link": false,
+    "global_id": "www.grandcenter.org?id=9384",
+    "global_id_lineage": [
+     "www.grandcenter.org?id=9384"
+    ]
+   },
+   "organizer": [],
+   "is_virtual": false,
+   "virtual_url": null,
+   "virtual_video_source": ""
+  },
+  {
+   "id": 36173,
+   "global_id": "www.grandcenter.org?id=36173",
+   "global_id_lineage": [
+    "www.grandcenter.org?id=36173"
+   ],
+   "author": "11",
+   "status": "publish",
+   "date": "2026-10-30 12:27:23",
+   "date_utc": "2026-10-30 17:27:23",
+   "modified": "2026-10-30 12:27:23",
+   "modified_utc": "2026-10-30 17:27:23",
+   "url": "https://www.grandcenter.org/event/argentine-tango-101-2/2026-12-03/",
+   "rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/36173",
+   "title": "Argentine Tango 101",
+   "description": "<p>No experience needed!</p>",
+   "excerpt": "",
+   "slug": "argentine-tango-101-2-2026-12-03",
+   "image": {
+    "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195.webp",
+    "id": 36162,
+    "extension": "webp",
+    "width": 2500,
+    "height": 1660,
+    "filesize": 157148,
+    "sizes": {
+     "medium": {
+      "width": 300,
+      "height": 199,
+      "mime-type": "image/webp",
+      "filesize": 10950,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-300x199.webp"
+     },
+     "large": {
+      "width": 1024,
+      "height": 680,
+      "mime-type": "image/webp",
+      "filesize": 46584,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-1024x680.webp"
+     },
+     "thumbnail": {
+      "width": 150,
+      "height": 150,
+      "mime-type": "image/webp",
+      "filesize": 7104,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-150x150.webp"
+     },
+     "medium_large": {
+      "width": 768,
+      "height": 510,
+      "mime-type": "image/webp",
+      "filesize": 32338,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-768x510.webp"
+     },
+     "1536x1536": {
+      "width": 1536,
+      "height": 1020,
+      "mime-type": "image/webp",
+      "filesize": 75356,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-1536x1020.webp"
+     },
+     "2048x2048": {
+      "width": 2048,
+      "height": 1360,
+      "mime-type": "image/webp",
+      "filesize": 107566,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-2048x1360.webp"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2026-12-03 18:30:00",
+   "start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "03",
+    "hour": "18",
+    "minutes": "30",
+    "seconds": "00"
+   },
+   "end_date": "2026-12-03 19:30:00",
+   "end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "03",
+    "hour": "19",
+    "minutes": "30",
+    "seconds": "00"
+   },
+   "utc_start_date": "2026-12-04 00:30:00",
+   "utc_start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "04",
+    "hour": "00",
+    "minutes": "30",
+    "seconds": "00"
+   },
+   "utc_end_date": "2026-12-04 01:30:00",
+   "utc_end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "04",
+    "hour": "01",
+    "minutes": "30",
+    "seconds": "00"
+   },
+   "timezone": "America/Chicago",
+   "timezone_abbr": "",
+   "cost": "$10 \u2013 $20",
+   "cost_details": {
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": [
+     "10",
+     "20"
+    ]
+   },
+   "website": "https://www.ballroomdancestl.org/info-schedule",
+   "show_map": false,
+   "show_map_link": true,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Dance",
+     "slug": "dance",
+     "term_group": 0,
+     "term_taxonomy_id": 37,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 215,
+     "filter": "raw",
+     "id": 37,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/37",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 9405,
+    "author": "2",
+    "status": "publish",
+    "date": "2020-06-02 00:47:28",
+    "date_utc": "2020-06-02 05:47:28",
+    "modified": "2020-06-08 14:53:00",
+    "modified_utc": "2020-06-08 19:53:00",
+    "url": "https://www.grandcenter.org/venue/the-grandel-theatre/",
+    "venue": "The Grandel Theatre",
+    "description": "<p>The Grandel Theatre is home to a 600 capacity state of the art theatre;\u00a0The Dark Room at The Grandel\u00a0\u2013 a full-service bar &amp; restaurant featuring rotating gallery quality photography exhibits and free live music seven days a week \u2013 and the Grand Hall at The Grandel \u2013 a beautiful private event space available for rent.</p>",
+    "slug": "the-grandel-theatre",
+    "image": {
+     "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel.jpg",
+     "id": 9983,
+     "extension": "jpg",
+     "width": 1024,
+     "height": 540,
+     "sizes": {
+      "medium": {
+       "width": 300,
+       "height": 158,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel-300x158.jpg"
+      },
+      "thumbnail": {
+       "width": 150,
+       "height": 150,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel-150x150.jpg"
+      },
+      "medium_large": {
+       "width": 768,
+       "height": 405,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel-768x405.jpg"
+      }
+     }
+    },
+    "address": "3610 Grandel Square",
+    "city": "St. Louis",
+    "country": "United States",
+    "state": "MO",
+    "website": "http://www.kranzbergartsfoundation.org/the-grandel/",
+    "stateprovince": "MO",
+    "show_map": false,
+    "show_map_link": false,
+    "global_id": "www.grandcenter.org?id=9405",
+    "global_id_lineage": [
+     "www.grandcenter.org?id=9405"
+    ]
+   },
+   "organizer": [],
+   "is_virtual": false,
+   "virtual_url": null,
+   "virtual_video_source": ""
+  },
+  {
+   "id": 36181,
+   "global_id": "www.grandcenter.org?id=36181",
+   "global_id_lineage": [
+    "www.grandcenter.org?id=36181"
+   ],
+   "author": "11",
+   "status": "publish",
+   "date": "2026-10-30 12:28:44",
+   "date_utc": "2026-10-30 17:28:44",
+   "modified": "2026-10-30 12:28:44",
+   "modified_utc": "2026-10-30 17:28:44",
+   "url": "https://www.grandcenter.org/event/argentine-tango-102-2/2026-12-03/",
+   "rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/36181",
+   "title": "Argentine Tango 102",
+   "description": "<p id=\"yui_3_17_2_1_1793378724923_340\" class=\"\">(requires some experience with Argentine Tango)</p>",
+   "excerpt": "",
+   "slug": "argentine-tango-102-2-2026-12-03",
+   "image": {
+    "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195.webp",
+    "id": 36162,
+    "extension": "webp",
+    "width": 2500,
+    "height": 1660,
+    "filesize": 157148,
+    "sizes": {
+     "medium": {
+      "width": 300,
+      "height": 199,
+      "mime-type": "image/webp",
+      "filesize": 10950,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-300x199.webp"
+     },
+     "large": {
+      "width": 1024,
+      "height": 680,
+      "mime-type": "image/webp",
+      "filesize": 46584,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-1024x680.webp"
+     },
+     "thumbnail": {
+      "width": 150,
+      "height": 150,
+      "mime-type": "image/webp",
+      "filesize": 7104,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-150x150.webp"
+     },
+     "medium_large": {
+      "width": 768,
+      "height": 510,
+      "mime-type": "image/webp",
+      "filesize": 32338,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-768x510.webp"
+     },
+     "1536x1536": {
+      "width": 1536,
+      "height": 1020,
+      "mime-type": "image/webp",
+      "filesize": 75356,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-1536x1020.webp"
+     },
+     "2048x2048": {
+      "width": 2048,
+      "height": 1360,
+      "mime-type": "image/webp",
+      "filesize": 107566,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-2048x1360.webp"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2026-12-03 19:30:00",
+   "start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "03",
+    "hour": "19",
+    "minutes": "30",
+    "seconds": "00"
+   },
+   "end_date": "2026-12-03 20:30:00",
+   "end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "03",
+    "hour": "20",
+    "minutes": "30",
+    "seconds": "00"
+   },
+   "utc_start_date": "2026-12-04 01:30:00",
+   "utc_start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "04",
+    "hour": "01",
+    "minutes": "30",
+    "seconds": "00"
+   },
+   "utc_end_date": "2026-12-04 02:30:00",
+   "utc_end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "04",
+    "hour": "02",
+    "minutes": "30",
+    "seconds": "00"
+   },
+   "timezone": "America/Chicago",
+   "timezone_abbr": "",
+   "cost": "$10 \u2013 $20",
+   "cost_details": {
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": [
+     "10",
+     "20"
+    ]
+   },
+   "website": "https://www.ballroomdancestl.org/info-schedule",
+   "show_map": false,
+   "show_map_link": true,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Dance",
+     "slug": "dance",
+     "term_group": 0,
+     "term_taxonomy_id": 37,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 215,
+     "filter": "raw",
+     "id": 37,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/37",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 9405,
+    "author": "2",
+    "status": "publish",
+    "date": "2020-06-02 00:47:28",
+    "date_utc": "2020-06-02 05:47:28",
+    "modified": "2020-06-08 14:53:00",
+    "modified_utc": "2020-06-08 19:53:00",
+    "url": "https://www.grandcenter.org/venue/the-grandel-theatre/",
+    "venue": "The Grandel Theatre",
+    "description": "<p>The Grandel Theatre is home to a 600 capacity state of the art theatre;\u00a0The Dark Room at The Grandel\u00a0\u2013 a full-service bar &amp; restaurant featuring rotating gallery quality photography exhibits and free live music seven days a week \u2013 and the Grand Hall at The Grandel \u2013 a beautiful private event space available for rent.</p>",
+    "slug": "the-grandel-theatre",
+    "image": {
+     "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel.jpg",
+     "id": 9983,
+     "extension": "jpg",
+     "width": 1024,
+     "height": 540,
+     "sizes": {
+      "medium": {
+       "width": 300,
+       "height": 158,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel-300x158.jpg"
+      },
+      "thumbnail": {
+       "width": 150,
+       "height": 150,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel-150x150.jpg"
+      },
+      "medium_large": {
+       "width": 768,
+       "height": 405,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel-768x405.jpg"
+      }
+     }
+    },
+    "address": "3610 Grandel Square",
+    "city": "St. Louis",
+    "country": "United States",
+    "state": "MO",
+    "website": "http://www.kranzbergartsfoundation.org/the-grandel/",
+    "stateprovince": "MO",
+    "show_map": false,
+    "show_map_link": false,
+    "global_id": "www.grandcenter.org?id=9405",
+    "global_id_lineage": [
+     "www.grandcenter.org?id=9405"
+    ]
+   },
+   "organizer": [],
+   "is_virtual": false,
+   "virtual_url": null,
+   "virtual_video_source": ""
+  },
+  {
+   "id": 36075,
+   "global_id": "www.grandcenter.org?id=36075",
+   "global_id_lineage": [
+    "www.grandcenter.org?id=36075"
+   ],
+   "author": "11",
+   "status": "publish",
+   "date": "2026-10-13 10:19:28",
+   "date_utc": "2026-10-13 15:19:28",
+   "modified": "2026-10-13 10:19:28",
+   "modified_utc": "2026-10-13 15:19:28",
+   "url": "https://www.grandcenter.org/event/jam-sessions-presented-by-jazz-st-louis-2/2026-12-03/",
+   "rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/36075",
+   "title": "Jam Sessions: Presented By Jazz St. Louis",
+   "description": "<p>The Key &amp; Jazz St. Louis partner to bring a weekly Jazz Jam series every Thursday 9-11pm. Bring your friends and keep the music playing with us all summer long.</p>",
+   "excerpt": "",
+   "slug": "jam-sessions-presented-by-jazz-st-louis-2-2026-12-03",
+   "image": {
+    "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/JazzJamAtTheKey-1.webp",
+    "id": 36070,
+    "extension": "webp",
+    "width": 750,
+    "height": 938,
+    "filesize": 97986,
+    "sizes": {
+     "medium": {
+      "width": 240,
+      "height": 300,
+      "mime-type": "image/webp",
+      "filesize": 15864,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/JazzJamAtTheKey-1-240x300.webp"
+     },
+     "thumbnail": {
+      "width": 150,
+      "height": 150,
+      "mime-type": "image/webp",
+      "filesize": 6670,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/JazzJamAtTheKey-1-150x150.webp"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2026-12-03 21:00:00",
+   "start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "03",
+    "hour": "21",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "end_date": "2026-12-03 23:00:00",
+   "end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "03",
+    "hour": "23",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_start_date": "2026-12-04 03:00:00",
+   "utc_start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "04",
+    "hour": "03",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_end_date": "2026-12-04 05:00:00",
+   "utc_end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "04",
+    "hour": "05",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "timezone": "America/Chicago",
+   "timezone_abbr": "",
+   "cost": "Free",
+   "cost_details": {
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": [
+     "0"
+    ]
+   },
+   "website": "https://www.thekeystl.com/events/0twm5yh1xdl2rvffba2h4bhfhlzorp-7pc45-6wjkk-6nxeh-cgcaa-m6hkc-pge48-s3gxf-689eh-9gzy7-amcyh",
+   "show_map": false,
+   "show_map_link": true,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Food &amp; Drink",
+     "slug": "food-drink",
+     "term_group": 0,
+     "term_taxonomy_id": 11,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 594,
+     "filter": "raw",
+     "id": 11,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/11",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    },
+    {
+     "name": "Music",
+     "slug": "music",
+     "term_group": 0,
+     "term_taxonomy_id": 14,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 1544,
+     "filter": "raw",
+     "id": 14,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/14",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 31216,
+    "author": "11",
+    "status": "publish",
+    "date": "2025-11-13 15:35:55",
+    "date_utc": "2025-11-13 21:35:55",
+    "modified": "2025-11-13 15:35:55",
+    "modified_utc": "2025-11-13 21:35:55",
+    "url": "https://www.grandcenter.org/venue/the-key-burger-bar-boogie/",
+    "venue": "The Key Burger Bar &#038; Boogie",
+    "description": "<h4><span class=\"sqsrte-text-color--lightAccent\">Welcome to The Key Burger Bar &amp; Boogie, a new concept in the Grand Center Arts District from the </span><a href=\"https://kranzbergartsfoundation.org/\"><span class=\"sqsrte-text-color--lightAccent\">Kranzberg Arts Foundation</span></a><span class=\"sqsrte-text-color--lightAccent\"> that is destined to be your favorite neighborhood hang. The Key offers a comfortable and welcoming gathering spot for all to enjoy great food, cold drinks, sports, live music and dancing in an art-forward atmosphere.</span></h4>",
+    "slug": "the-key-burger-bar-boogie",
+    "image": {
+     "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177.webp",
+     "id": 31217,
+     "extension": "webp",
+     "width": 1600,
+     "height": 1067,
+     "filesize": 161188,
+     "sizes": {
+      "medium": {
+       "width": 300,
+       "height": 200,
+       "mime-type": "image/webp",
+       "filesize": 13228,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-300x200.webp"
+      },
+      "large": {
+       "width": 1024,
+       "height": 683,
+       "mime-type": "image/webp",
+       "filesize": 70882,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-1024x683.webp"
+      },
+      "thumbnail": {
+       "width": 150,
+       "height": 150,
+       "mime-type": "image/webp",
+       "filesize": 6812,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-150x150.webp"
+      },
+      "medium_large": {
+       "width": 768,
+       "height": 512,
+       "mime-type": "image/webp",
+       "filesize": 47014,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-768x512.webp"
+      },
+      "1536x1536": {
+       "width": 1536,
+       "height": 1024,
+       "mime-type": "image/webp",
+       "filesize": 120298,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-1536x1024.webp"
+      }
+     }
+    },
+    "address": "3225 Olive Street",
+    "city": "St. Louis",
+    "country": "United States",
+    "state": "MO",
+    "zip": "63103",
+    "website": "https://www.thekeystl.com/",
+    "stateprovince": "MO",
+    "show_map": false,
+    "show_map_link": true,
+    "global_id": "www.grandcenter.org?id=31216",
+    "global_id_lineage": [
+     "www.grandcenter.org?id=31216"
+    ]
+   },
+   "organizer": [],
+   "is_virtual": false,
+   "virtual_url": null,
+   "virtual_video_source": ""
+  },
+  {
+   "id": 36237,
+   "global_id": "www.grandcenter.org?id=36237",
+   "global_id_lineage": [
+    "www.grandcenter.org?id=36237"
+   ],
+   "author": "11",
+   "status": "publish",
+   "date": "2026-10-30 13:42:06",
+   "date_utc": "2026-10-30 18:42:06",
+   "modified": "2026-10-30 13:42:06",
+   "modified_utc": "2026-10-30 18:42:06",
+   "url": "https://www.grandcenter.org/event/dvoraks-eighth/2026-12-04/",
+   "rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/36237",
+   "title": "Dvo\u0159\u00e1k\u2019s Eighth",
+   "description": "<p>Inspired by the rolling hills, bird calls, and peaceful charm of the Bohemian countryside, Dvo\u0159\u00e1k weaves together an\u00a0array\u00a0of\u00a0vibrant\u00a0folk songs and wistful pastoral melodies in his beloved Eighth Symphony. Kaija\u00a0Saariaho\u2019s\u00a0ethereal<em>\u00a0Lumi\u00e8re et\u00a0Pesanteur\u00a0</em>adds to the ambience in this dazzling program led by Portuguese conductor Dinis Sousa in his SLSO debut. MacArthur Genius Fellowship awardee and Avery Fisher Prize recipient Jeremy Denk takes on Bart\u00f3k\u2019s fiery Piano Concerto No. 2, delivering inimitable expressive power.</p>",
+   "excerpt": "",
+   "slug": "dvoraks-eighth",
+   "image": {
+    "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/Dvoraks-Eighth-2000x2000-1-627x627-1.jpg",
+    "id": 36238,
+    "extension": "jpg",
+    "width": 627,
+    "height": 627,
+    "filesize": 56940,
+    "sizes": {
+     "medium": {
+      "width": 300,
+      "height": 300,
+      "mime-type": "image/jpeg",
+      "filesize": 15868,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/Dvoraks-Eighth-2000x2000-1-627x627-1-300x300.jpg"
+     },
+     "thumbnail": {
+      "width": 150,
+      "height": 150,
+      "mime-type": "image/jpeg",
+      "filesize": 5218,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/Dvoraks-Eighth-2000x2000-1-627x627-1-150x150.jpg"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2026-12-04 10:30:00",
+   "start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "04",
+    "hour": "10",
+    "minutes": "30",
+    "seconds": "00"
+   },
+   "end_date": "2026-12-04 12:00:00",
+   "end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "04",
+    "hour": "12",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_start_date": "2026-12-04 16:30:00",
+   "utc_start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "04",
+    "hour": "16",
+    "minutes": "30",
+    "seconds": "00"
+   },
+   "utc_end_date": "2026-12-04 18:00:00",
+   "utc_end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "04",
+    "hour": "18",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "timezone": "America/Chicago",
+   "timezone_abbr": "CST",
+   "cost": "",
+   "cost_details": {
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": []
+   },
+   "website": "https://slso.org/event/dvoraks-eighth-bohemian-dreams/",
+   "show_map": false,
+   "show_map_link": true,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Music",
+     "slug": "music",
+     "term_group": 0,
+     "term_taxonomy_id": 14,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 1544,
+     "filter": "raw",
+     "id": 14,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/14",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 9370,
+    "author": "2",
+    "status": "publish",
+    "date": "2020-06-02 00:47:38",
+    "date_utc": "2020-06-02 05:47:38",
+    "modified": "2020-06-08 14:29:04",
+    "modified_utc": "2020-06-08 19:29:04",
+    "url": "https://www.grandcenter.org/venue/saint-louis-symphony-orchestra-at-powell-hall/",
+    "venue": "Saint Louis Symphony Orchestra at Powell Hall",
+    "description": "<p>Founded in 1880, the\u00a0<em>St</em>.\u00a0<em>Louis Symphony Orchestra</em>\u00a0is the second oldest in the United States and is recognized internationally as an ensemble of the highest caliber, performing a broad musical repertoire.</p>",
+    "slug": "saint-louis-symphony-orchestra-at-powell-hall",
+    "image": {
+     "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/powell1.jpg",
+     "id": 9975,
+     "extension": "jpg",
+     "width": 2400,
+     "height": 1600,
+     "sizes": {
+      "medium": {
+       "width": 300,
+       "height": 200,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/powell1-300x200.jpg"
+      },
+      "large": {
+       "width": 1024,
+       "height": 683,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/powell1-1024x683.jpg"
+      },
+      "thumbnail": {
+       "width": 150,
+       "height": 150,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/powell1-150x150.jpg"
+      },
+      "medium_large": {
+       "width": 768,
+       "height": 512,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/powell1-768x512.jpg"
+      },
+      "1536x1536": {
+       "width": 1536,
+       "height": 1024,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/powell1-1536x1024.jpg"
+      },
+      "2048x2048": {
+       "width": 2048,
+       "height": 1365,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/powell1-2048x1365.jpg"
+      }
+     }
+    },
+    "address": "718 N Grand Blvd",
+    "city": "St. Louis",
+    "country": "United States",
+    "state": "MO",
+    "zip": "63103",
+    "website": "https://www.slso.org/en/about-us/powell-hall/",
+    "stateprovince": "MO",
+    "show_map": false,
+    "show_map_link": false,
+    "global_id": "www.grandcenter.org?id=9370",
+    "global_id_lineage": [
+     "www.grandcenter.org?id=9370"
+    ]
+   },
+   "organizer": [],
+   "is_virtual": false,
+   "virtual_url": null,
+   "virtual_video_source": ""
+  },
+  {
+   "id": 36239,
+   "global_id": "www.grandcenter.org?id=36239",
+   "global_id_lineage": [
+    "www.grandcenter.org?id=36239"
+   ],
+   "author": "11",
+   "status": "publish",
+   "date": "2026-10-30 13:42:06",
+   "date_utc": "2026-10-30 18:42:06",
+   "modified": "2026-10-30 13:42:06",
+   "modified_utc": "2026-10-30 18:42:06",
+   "url": "https://www.grandcenter.org/event/dvoraks-eighth/2026-12-05/",
+   "rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/36239",
+   "title": "Dvo\u0159\u00e1k\u2019s Eighth",
+   "description": "<p>Inspired by the rolling hills, bird calls, and peaceful charm of the Bohemian countryside, Dvo\u0159\u00e1k weaves together an\u00a0array\u00a0of\u00a0vibrant\u00a0folk songs and wistful pastoral melodies in his beloved Eighth Symphony. Kaija\u00a0Saariaho\u2019s\u00a0ethereal<em>\u00a0Lumi\u00e8re et\u00a0Pesanteur\u00a0</em>adds to the ambience in this dazzling program led by Portuguese conductor Dinis Sousa in his SLSO debut. MacArthur Genius Fellowship awardee and Avery Fisher Prize recipient Jeremy Denk takes on Bart\u00f3k\u2019s fiery Piano Concerto No. 2, delivering inimitable expressive power.</p>",
+   "excerpt": "",
+   "slug": "dvoraks-eighth-2026-12-05",
+   "image": {
+    "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/Dvoraks-Eighth-2000x2000-1-627x627-1.jpg",
+    "id": 36238,
+    "extension": "jpg",
+    "width": 627,
+    "height": 627,
+    "filesize": 56940,
+    "sizes": {
+     "medium": {
+      "width": 300,
+      "height": 300,
+      "mime-type": "image/jpeg",
+      "filesize": 15868,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/Dvoraks-Eighth-2000x2000-1-627x627-1-300x300.jpg"
+     },
+     "thumbnail": {
+      "width": 150,
+      "height": 150,
+      "mime-type": "image/jpeg",
+      "filesize": 5218,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/Dvoraks-Eighth-2000x2000-1-627x627-1-150x150.jpg"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2026-12-05 19:30:00",
+   "start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "05",
+    "hour": "19",
+    "minutes": "30",
+    "seconds": "00"
+   },
+   "end_date": "2026-12-05 20:30:00",
+   "end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "05",
+    "hour": "20",
+    "minutes": "30",
+    "seconds": "00"
+   },
+   "utc_start_date": "2026-12-06 01:30:00",
+   "utc_start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "06",
+    "hour": "01",
+    "minutes": "30",
+    "seconds": "00"
+   },
+   "utc_end_date": "2026-12-06 02:30:00",
+   "utc_end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "06",
+    "hour": "02",
+    "minutes": "30",
+    "seconds": "00"
+   },
+   "timezone": "America/Chicago",
+   "timezone_abbr": "",
+   "cost": "",
+   "cost_details": {
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": []
+   },
+   "website": "https://slso.org/event/dvoraks-eighth-bohemian-dreams/",
+   "show_map": false,
+   "show_map_link": true,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Music",
+     "slug": "music",
+     "term_group": 0,
+     "term_taxonomy_id": 14,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 1544,
+     "filter": "raw",
+     "id": 14,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/14",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 9370,
+    "author": "2",
+    "status": "publish",
+    "date": "2020-06-02 00:47:38",
+    "date_utc": "2020-06-02 05:47:38",
+    "modified": "2020-06-08 14:29:04",
+    "modified_utc": "2020-06-08 19:29:04",
+    "url": "https://www.grandcenter.org/venue/saint-louis-symphony-orchestra-at-powell-hall/",
+    "venue": "Saint Louis Symphony Orchestra at Powell Hall",
+    "description": "<p>Founded in 1880, the\u00a0<em>St</em>.\u00a0<em>Louis Symphony Orchestra</em>\u00a0is the second oldest in the United States and is recognized internationally as an ensemble of the highest caliber, performing a broad musical repertoire.</p>",
+    "slug": "saint-louis-symphony-orchestra-at-powell-hall",
+    "image": {
+     "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/powell1.jpg",
+     "id": 9975,
+     "extension": "jpg",
+     "width": 2400,
+     "height": 1600,
+     "sizes": {
+      "medium": {
+       "width": 300,
+       "height": 200,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/powell1-300x200.jpg"
+      },
+      "large": {
+       "width": 1024,
+       "height": 683,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/powell1-1024x683.jpg"
+      },
+      "thumbnail": {
+       "width": 150,
+       "height": 150,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/powell1-150x150.jpg"
+      },
+      "medium_large": {
+       "width": 768,
+       "height": 512,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/powell1-768x512.jpg"
+      },
+      "1536x1536": {
+       "width": 1536,
+       "height": 1024,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/powell1-1536x1024.jpg"
+      },
+      "2048x2048": {
+       "width": 2048,
+       "height": 1365,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/powell1-2048x1365.jpg"
+      }
+     }
+    },
+    "address": "718 N Grand Blvd",
+    "city": "St. Louis",
+    "country": "United States",
+    "state": "MO",
+    "zip": "63103",
+    "website": "https://www.slso.org/en/about-us/powell-hall/",
+    "stateprovince": "MO",
+    "show_map": false,
+    "show_map_link": false,
+    "global_id": "www.grandcenter.org?id=9370",
+    "global_id_lineage": [
+     "www.grandcenter.org?id=9370"
+    ]
+   },
+   "organizer": [],
+   "is_virtual": false,
+   "virtual_url": null,
+   "virtual_video_source": ""
+  },
+  {
+   "id": 36161,
+   "global_id": "www.grandcenter.org?id=36161",
+   "global_id_lineage": [
+    "www.grandcenter.org?id=36161"
+   ],
+   "author": "11",
+   "status": "publish",
+   "date": "2026-10-30 11:49:51",
+   "date_utc": "2026-10-30 16:49:51",
+   "modified": "2026-10-30 11:50:28",
+   "modified_utc": "2026-10-30 16:50:28",
+   "url": "https://www.grandcenter.org/event/basic-ballroom/2026-12-08/",
+   "rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/36161",
+   "title": "Basic Ballroom",
+   "description": "<p>4-week session: 11/10, 11/17, 12/1, 12/8<br />\n<strong>6-7pm:</strong> <strong>Basic Ballroom:</strong> American Tango &amp; Cha Cha<br />\n(no experience needed)</p>",
+   "excerpt": "",
+   "slug": "basic-ballroom-2026-12-08",
+   "image": {
+    "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195.webp",
+    "id": 36162,
+    "extension": "webp",
+    "width": 2500,
+    "height": 1660,
+    "filesize": 157148,
+    "sizes": {
+     "medium": {
+      "width": 300,
+      "height": 199,
+      "mime-type": "image/webp",
+      "filesize": 10950,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-300x199.webp"
+     },
+     "large": {
+      "width": 1024,
+      "height": 680,
+      "mime-type": "image/webp",
+      "filesize": 46584,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-1024x680.webp"
+     },
+     "thumbnail": {
+      "width": 150,
+      "height": 150,
+      "mime-type": "image/webp",
+      "filesize": 7104,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-150x150.webp"
+     },
+     "medium_large": {
+      "width": 768,
+      "height": 510,
+      "mime-type": "image/webp",
+      "filesize": 32338,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-768x510.webp"
+     },
+     "1536x1536": {
+      "width": 1536,
+      "height": 1020,
+      "mime-type": "image/webp",
+      "filesize": 75356,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-1536x1020.webp"
+     },
+     "2048x2048": {
+      "width": 2048,
+      "height": 1360,
+      "mime-type": "image/webp",
+      "filesize": 107566,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-2048x1360.webp"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2026-12-08 18:00:00",
+   "start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "08",
+    "hour": "18",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "end_date": "2026-12-08 19:00:00",
+   "end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "08",
+    "hour": "19",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_start_date": "2026-12-09 00:00:00",
+   "utc_start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "09",
+    "hour": "00",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_end_date": "2026-12-09 01:00:00",
+   "utc_end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "09",
+    "hour": "01",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "timezone": "America/Chicago",
+   "timezone_abbr": "",
+   "cost": "$10 \u2013 $20",
+   "cost_details": {
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": [
+     "10",
+     "20"
+    ]
+   },
+   "website": "https://www.ballroomdancestl.org/info-schedule",
+   "show_map": false,
+   "show_map_link": true,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Dance",
+     "slug": "dance",
+     "term_group": 0,
+     "term_taxonomy_id": 37,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 215,
+     "filter": "raw",
+     "id": 37,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/37",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 9405,
+    "author": "2",
+    "status": "publish",
+    "date": "2020-06-02 00:47:28",
+    "date_utc": "2020-06-02 05:47:28",
+    "modified": "2020-06-08 14:53:00",
+    "modified_utc": "2020-06-08 19:53:00",
+    "url": "https://www.grandcenter.org/venue/the-grandel-theatre/",
+    "venue": "The Grandel Theatre",
+    "description": "<p>The Grandel Theatre is home to a 600 capacity state of the art theatre;\u00a0The Dark Room at The Grandel\u00a0\u2013 a full-service bar &amp; restaurant featuring rotating gallery quality photography exhibits and free live music seven days a week \u2013 and the Grand Hall at The Grandel \u2013 a beautiful private event space available for rent.</p>",
+    "slug": "the-grandel-theatre",
+    "image": {
+     "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel.jpg",
+     "id": 9983,
+     "extension": "jpg",
+     "width": 1024,
+     "height": 540,
+     "sizes": {
+      "medium": {
+       "width": 300,
+       "height": 158,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel-300x158.jpg"
+      },
+      "thumbnail": {
+       "width": 150,
+       "height": 150,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel-150x150.jpg"
+      },
+      "medium_large": {
+       "width": 768,
+       "height": 405,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel-768x405.jpg"
+      }
+     }
+    },
+    "address": "3610 Grandel Square",
+    "city": "St. Louis",
+    "country": "United States",
+    "state": "MO",
+    "website": "http://www.kranzbergartsfoundation.org/the-grandel/",
+    "stateprovince": "MO",
+    "show_map": false,
+    "show_map_link": false,
+    "global_id": "www.grandcenter.org?id=9405",
+    "global_id_lineage": [
+     "www.grandcenter.org?id=9405"
+    ]
+   },
+   "organizer": [],
+   "is_virtual": false,
+   "virtual_url": null,
+   "virtual_video_source": ""
+  },
+  {
+   "id": 36167,
+   "global_id": "www.grandcenter.org?id=36167",
+   "global_id_lineage": [
+    "www.grandcenter.org?id=36167"
+   ],
+   "author": "11",
+   "status": "publish",
+   "date": "2026-10-30 11:52:02",
+   "date_utc": "2026-10-30 16:52:02",
+   "modified": "2026-10-30 11:52:02",
+   "modified_utc": "2026-10-30 16:52:02",
+   "url": "https://www.grandcenter.org/event/intermediate-ballroom-classes/2026-12-08/",
+   "rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/36167",
+   "title": "Intermediate Ballroom Classes",
+   "description": "<p id=\"yui_3_17_2_1_1793378724923_332\" class=\"\"><strong>7-8pm:</strong> <strong>Intermediate Ballroom:</strong> Foxtrot &amp; East Coast Swing<br />\n(requires prior knowledge of basic Foxtrot and East Coast Swing; e.g. 2 mo of basic classes at BDASL or previous dance experience)</p>",
+   "excerpt": "",
+   "slug": "intermediate-ballroom-classes-2026-12-08",
+   "image": {
+    "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195.webp",
+    "id": 36162,
+    "extension": "webp",
+    "width": 2500,
+    "height": 1660,
+    "filesize": 157148,
+    "sizes": {
+     "medium": {
+      "width": 300,
+      "height": 199,
+      "mime-type": "image/webp",
+      "filesize": 10950,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-300x199.webp"
+     },
+     "large": {
+      "width": 1024,
+      "height": 680,
+      "mime-type": "image/webp",
+      "filesize": 46584,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-1024x680.webp"
+     },
+     "thumbnail": {
+      "width": 150,
+      "height": 150,
+      "mime-type": "image/webp",
+      "filesize": 7104,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-150x150.webp"
+     },
+     "medium_large": {
+      "width": 768,
+      "height": 510,
+      "mime-type": "image/webp",
+      "filesize": 32338,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-768x510.webp"
+     },
+     "1536x1536": {
+      "width": 1536,
+      "height": 1020,
+      "mime-type": "image/webp",
+      "filesize": 75356,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-1536x1020.webp"
+     },
+     "2048x2048": {
+      "width": 2048,
+      "height": 1360,
+      "mime-type": "image/webp",
+      "filesize": 107566,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-2048x1360.webp"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2026-12-08 19:00:00",
+   "start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "08",
+    "hour": "19",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "end_date": "2026-12-08 20:00:00",
+   "end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "08",
+    "hour": "20",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_start_date": "2026-12-09 01:00:00",
+   "utc_start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "09",
+    "hour": "01",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_end_date": "2026-12-09 02:00:00",
+   "utc_end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "09",
+    "hour": "02",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "timezone": "America/Chicago",
+   "timezone_abbr": "",
+   "cost": "$10 \u2013 $20",
+   "cost_details": {
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": [
+     "10",
+     "20"
+    ]
+   },
+   "website": "https://www.ballroomdancestl.org/info-schedule",
+   "show_map": false,
+   "show_map_link": true,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Dance",
+     "slug": "dance",
+     "term_group": 0,
+     "term_taxonomy_id": 37,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 215,
+     "filter": "raw",
+     "id": 37,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/37",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 9405,
+    "author": "2",
+    "status": "publish",
+    "date": "2020-06-02 00:47:28",
+    "date_utc": "2020-06-02 05:47:28",
+    "modified": "2020-06-08 14:53:00",
+    "modified_utc": "2020-06-08 19:53:00",
+    "url": "https://www.grandcenter.org/venue/the-grandel-theatre/",
+    "venue": "The Grandel Theatre",
+    "description": "<p>The Grandel Theatre is home to a 600 capacity state of the art theatre;\u00a0The Dark Room at The Grandel\u00a0\u2013 a full-service bar &amp; restaurant featuring rotating gallery quality photography exhibits and free live music seven days a week \u2013 and the Grand Hall at The Grandel \u2013 a beautiful private event space available for rent.</p>",
+    "slug": "the-grandel-theatre",
+    "image": {
+     "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel.jpg",
+     "id": 9983,
+     "extension": "jpg",
+     "width": 1024,
+     "height": 540,
+     "sizes": {
+      "medium": {
+       "width": 300,
+       "height": 158,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel-300x158.jpg"
+      },
+      "thumbnail": {
+       "width": 150,
+       "height": 150,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel-150x150.jpg"
+      },
+      "medium_large": {
+       "width": 768,
+       "height": 405,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel-768x405.jpg"
+      }
+     }
+    },
+    "address": "3610 Grandel Square",
+    "city": "St. Louis",
+    "country": "United States",
+    "state": "MO",
+    "website": "http://www.kranzbergartsfoundation.org/the-grandel/",
+    "stateprovince": "MO",
+    "show_map": false,
+    "show_map_link": false,
+    "global_id": "www.grandcenter.org?id=9405",
+    "global_id_lineage": [
+     "www.grandcenter.org?id=9405"
+    ]
+   },
+   "organizer": [],
+   "is_virtual": false,
+   "virtual_url": null,
+   "virtual_video_source": ""
+  },
+  {
+   "id": 36174,
+   "global_id": "www.grandcenter.org?id=36174",
+   "global_id_lineage": [
+    "www.grandcenter.org?id=36174"
+   ],
+   "author": "11",
+   "status": "publish",
+   "date": "2026-10-30 12:27:23",
+   "date_utc": "2026-10-30 17:27:23",
+   "modified": "2026-10-30 12:27:23",
+   "modified_utc": "2026-10-30 17:27:23",
+   "url": "https://www.grandcenter.org/event/argentine-tango-101-2/2026-12-10/",
+   "rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/36174",
+   "title": "Argentine Tango 101",
+   "description": "<p>No experience needed!</p>",
+   "excerpt": "",
+   "slug": "argentine-tango-101-2-2026-12-10",
+   "image": {
+    "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195.webp",
+    "id": 36162,
+    "extension": "webp",
+    "width": 2500,
+    "height": 1660,
+    "filesize": 157148,
+    "sizes": {
+     "medium": {
+      "width": 300,
+      "height": 199,
+      "mime-type": "image/webp",
+      "filesize": 10950,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-300x199.webp"
+     },
+     "large": {
+      "width": 1024,
+      "height": 680,
+      "mime-type": "image/webp",
+      "filesize": 46584,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-1024x680.webp"
+     },
+     "thumbnail": {
+      "width": 150,
+      "height": 150,
+      "mime-type": "image/webp",
+      "filesize": 7104,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-150x150.webp"
+     },
+     "medium_large": {
+      "width": 768,
+      "height": 510,
+      "mime-type": "image/webp",
+      "filesize": 32338,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-768x510.webp"
+     },
+     "1536x1536": {
+      "width": 1536,
+      "height": 1020,
+      "mime-type": "image/webp",
+      "filesize": 75356,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-1536x1020.webp"
+     },
+     "2048x2048": {
+      "width": 2048,
+      "height": 1360,
+      "mime-type": "image/webp",
+      "filesize": 107566,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-2048x1360.webp"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2026-12-10 18:30:00",
+   "start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "10",
+    "hour": "18",
+    "minutes": "30",
+    "seconds": "00"
+   },
+   "end_date": "2026-12-10 19:30:00",
+   "end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "10",
+    "hour": "19",
+    "minutes": "30",
+    "seconds": "00"
+   },
+   "utc_start_date": "2026-12-11 00:30:00",
+   "utc_start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "11",
+    "hour": "00",
+    "minutes": "30",
+    "seconds": "00"
+   },
+   "utc_end_date": "2026-12-11 01:30:00",
+   "utc_end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "11",
+    "hour": "01",
+    "minutes": "30",
+    "seconds": "00"
+   },
+   "timezone": "America/Chicago",
+   "timezone_abbr": "",
+   "cost": "$10 \u2013 $20",
+   "cost_details": {
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": [
+     "10",
+     "20"
+    ]
+   },
+   "website": "https://www.ballroomdancestl.org/info-schedule",
+   "show_map": false,
+   "show_map_link": true,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Dance",
+     "slug": "dance",
+     "term_group": 0,
+     "term_taxonomy_id": 37,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 215,
+     "filter": "raw",
+     "id": 37,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/37",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 9405,
+    "author": "2",
+    "status": "publish",
+    "date": "2020-06-02 00:47:28",
+    "date_utc": "2020-06-02 05:47:28",
+    "modified": "2020-06-08 14:53:00",
+    "modified_utc": "2020-06-08 19:53:00",
+    "url": "https://www.grandcenter.org/venue/the-grandel-theatre/",
+    "venue": "The Grandel Theatre",
+    "description": "<p>The Grandel Theatre is home to a 600 capacity state of the art theatre;\u00a0The Dark Room at The Grandel\u00a0\u2013 a full-service bar &amp; restaurant featuring rotating gallery quality photography exhibits and free live music seven days a week \u2013 and the Grand Hall at The Grandel \u2013 a beautiful private event space available for rent.</p>",
+    "slug": "the-grandel-theatre",
+    "image": {
+     "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel.jpg",
+     "id": 9983,
+     "extension": "jpg",
+     "width": 1024,
+     "height": 540,
+     "sizes": {
+      "medium": {
+       "width": 300,
+       "height": 158,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel-300x158.jpg"
+      },
+      "thumbnail": {
+       "width": 150,
+       "height": 150,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel-150x150.jpg"
+      },
+      "medium_large": {
+       "width": 768,
+       "height": 405,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel-768x405.jpg"
+      }
+     }
+    },
+    "address": "3610 Grandel Square",
+    "city": "St. Louis",
+    "country": "United States",
+    "state": "MO",
+    "website": "http://www.kranzbergartsfoundation.org/the-grandel/",
+    "stateprovince": "MO",
+    "show_map": false,
+    "show_map_link": false,
+    "global_id": "www.grandcenter.org?id=9405",
+    "global_id_lineage": [
+     "www.grandcenter.org?id=9405"
+    ]
+   },
+   "organizer": [],
+   "is_virtual": false,
+   "virtual_url": null,
+   "virtual_video_source": ""
+  },
+  {
+   "id": 36182,
+   "global_id": "www.grandcenter.org?id=36182",
+   "global_id_lineage": [
+    "www.grandcenter.org?id=36182"
+   ],
+   "author": "11",
+   "status": "publish",
+   "date": "2026-10-30 12:28:44",
+   "date_utc": "2026-10-30 17:28:44",
+   "modified": "2026-10-30 12:28:44",
+   "modified_utc": "2026-10-30 17:28:44",
+   "url": "https://www.grandcenter.org/event/argentine-tango-102-2/2026-12-10/",
+   "rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/36182",
+   "title": "Argentine Tango 102",
+   "description": "<p id=\"yui_3_17_2_1_1793378724923_340\" class=\"\">(requires some experience with Argentine Tango)</p>",
+   "excerpt": "",
+   "slug": "argentine-tango-102-2-2026-12-10",
+   "image": {
+    "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195.webp",
+    "id": 36162,
+    "extension": "webp",
+    "width": 2500,
+    "height": 1660,
+    "filesize": 157148,
+    "sizes": {
+     "medium": {
+      "width": 300,
+      "height": 199,
+      "mime-type": "image/webp",
+      "filesize": 10950,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-300x199.webp"
+     },
+     "large": {
+      "width": 1024,
+      "height": 680,
+      "mime-type": "image/webp",
+      "filesize": 46584,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-1024x680.webp"
+     },
+     "thumbnail": {
+      "width": 150,
+      "height": 150,
+      "mime-type": "image/webp",
+      "filesize": 7104,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-150x150.webp"
+     },
+     "medium_large": {
+      "width": 768,
+      "height": 510,
+      "mime-type": "image/webp",
+      "filesize": 32338,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-768x510.webp"
+     },
+     "1536x1536": {
+      "width": 1536,
+      "height": 1020,
+      "mime-type": "image/webp",
+      "filesize": 75356,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-1536x1020.webp"
+     },
+     "2048x2048": {
+      "width": 2048,
+      "height": 1360,
+      "mime-type": "image/webp",
+      "filesize": 107566,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-2048x1360.webp"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2026-12-10 19:30:00",
+   "start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "10",
+    "hour": "19",
+    "minutes": "30",
+    "seconds": "00"
+   },
+   "end_date": "2026-12-10 20:30:00",
+   "end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "10",
+    "hour": "20",
+    "minutes": "30",
+    "seconds": "00"
+   },
+   "utc_start_date": "2026-12-11 01:30:00",
+   "utc_start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "11",
+    "hour": "01",
+    "minutes": "30",
+    "seconds": "00"
+   },
+   "utc_end_date": "2026-12-11 02:30:00",
+   "utc_end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "11",
+    "hour": "02",
+    "minutes": "30",
+    "seconds": "00"
+   },
+   "timezone": "America/Chicago",
+   "timezone_abbr": "",
+   "cost": "$10 \u2013 $20",
+   "cost_details": {
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": [
+     "10",
+     "20"
+    ]
+   },
+   "website": "https://www.ballroomdancestl.org/info-schedule",
+   "show_map": false,
+   "show_map_link": true,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Dance",
+     "slug": "dance",
+     "term_group": 0,
+     "term_taxonomy_id": 37,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 215,
+     "filter": "raw",
+     "id": 37,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/37",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 9405,
+    "author": "2",
+    "status": "publish",
+    "date": "2020-06-02 00:47:28",
+    "date_utc": "2020-06-02 05:47:28",
+    "modified": "2020-06-08 14:53:00",
+    "modified_utc": "2020-06-08 19:53:00",
+    "url": "https://www.grandcenter.org/venue/the-grandel-theatre/",
+    "venue": "The Grandel Theatre",
+    "description": "<p>The Grandel Theatre is home to a 600 capacity state of the art theatre;\u00a0The Dark Room at The Grandel\u00a0\u2013 a full-service bar &amp; restaurant featuring rotating gallery quality photography exhibits and free live music seven days a week \u2013 and the Grand Hall at The Grandel \u2013 a beautiful private event space available for rent.</p>",
+    "slug": "the-grandel-theatre",
+    "image": {
+     "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel.jpg",
+     "id": 9983,
+     "extension": "jpg",
+     "width": 1024,
+     "height": 540,
+     "sizes": {
+      "medium": {
+       "width": 300,
+       "height": 158,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel-300x158.jpg"
+      },
+      "thumbnail": {
+       "width": 150,
+       "height": 150,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel-150x150.jpg"
+      },
+      "medium_large": {
+       "width": 768,
+       "height": 405,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel-768x405.jpg"
+      }
+     }
+    },
+    "address": "3610 Grandel Square",
+    "city": "St. Louis",
+    "country": "United States",
+    "state": "MO",
+    "website": "http://www.kranzbergartsfoundation.org/the-grandel/",
+    "stateprovince": "MO",
+    "show_map": false,
+    "show_map_link": false,
+    "global_id": "www.grandcenter.org?id=9405",
+    "global_id_lineage": [
+     "www.grandcenter.org?id=9405"
+    ]
+   },
+   "organizer": [],
+   "is_virtual": false,
+   "virtual_url": null,
+   "virtual_video_source": ""
+  },
+  {
+   "id": 36076,
+   "global_id": "www.grandcenter.org?id=36076",
+   "global_id_lineage": [
+    "www.grandcenter.org?id=36076"
+   ],
+   "author": "11",
+   "status": "publish",
+   "date": "2026-10-13 10:19:28",
+   "date_utc": "2026-10-13 15:19:28",
+   "modified": "2026-10-13 10:19:28",
+   "modified_utc": "2026-10-13 15:19:28",
+   "url": "https://www.grandcenter.org/event/jam-sessions-presented-by-jazz-st-louis-2/2026-12-10/",
+   "rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/36076",
+   "title": "Jam Sessions: Presented By Jazz St. Louis",
+   "description": "<p>The Key &amp; Jazz St. Louis partner to bring a weekly Jazz Jam series every Thursday 9-11pm. Bring your friends and keep the music playing with us all summer long.</p>",
+   "excerpt": "",
+   "slug": "jam-sessions-presented-by-jazz-st-louis-2-2026-12-10",
+   "image": {
+    "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/JazzJamAtTheKey-1.webp",
+    "id": 36070,
+    "extension": "webp",
+    "width": 750,
+    "height": 938,
+    "filesize": 97986,
+    "sizes": {
+     "medium": {
+      "width": 240,
+      "height": 300,
+      "mime-type": "image/webp",
+      "filesize": 15864,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/JazzJamAtTheKey-1-240x300.webp"
+     },
+     "thumbnail": {
+      "width": 150,
+      "height": 150,
+      "mime-type": "image/webp",
+      "filesize": 6670,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/JazzJamAtTheKey-1-150x150.webp"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2026-12-10 21:00:00",
+   "start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "10",
+    "hour": "21",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "end_date": "2026-12-10 23:00:00",
+   "end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "10",
+    "hour": "23",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_start_date": "2026-12-11 03:00:00",
+   "utc_start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "11",
+    "hour": "03",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_end_date": "2026-12-11 05:00:00",
+   "utc_end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "11",
+    "hour": "05",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "timezone": "America/Chicago",
+   "timezone_abbr": "",
+   "cost": "Free",
+   "cost_details": {
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": [
+     "0"
+    ]
+   },
+   "website": "https://www.thekeystl.com/events/0twm5yh1xdl2rvffba2h4bhfhlzorp-7pc45-6wjkk-6nxeh-cgcaa-m6hkc-pge48-s3gxf-689eh-9gzy7-amcyh",
+   "show_map": false,
+   "show_map_link": true,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Food &amp; Drink",
+     "slug": "food-drink",
+     "term_group": 0,
+     "term_taxonomy_id": 11,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 594,
+     "filter": "raw",
+     "id": 11,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/11",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    },
+    {
+     "name": "Music",
+     "slug": "music",
+     "term_group": 0,
+     "term_taxonomy_id": 14,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 1544,
+     "filter": "raw",
+     "id": 14,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/14",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 31216,
+    "author": "11",
+    "status": "publish",
+    "date": "2025-11-13 15:35:55",
+    "date_utc": "2025-11-13 21:35:55",
+    "modified": "2025-11-13 15:35:55",
+    "modified_utc": "2025-11-13 21:35:55",
+    "url": "https://www.grandcenter.org/venue/the-key-burger-bar-boogie/",
+    "venue": "The Key Burger Bar &#038; Boogie",
+    "description": "<h4><span class=\"sqsrte-text-color--lightAccent\">Welcome to The Key Burger Bar &amp; Boogie, a new concept in the Grand Center Arts District from the </span><a href=\"https://kranzbergartsfoundation.org/\"><span class=\"sqsrte-text-color--lightAccent\">Kranzberg Arts Foundation</span></a><span class=\"sqsrte-text-color--lightAccent\"> that is destined to be your favorite neighborhood hang. The Key offers a comfortable and welcoming gathering spot for all to enjoy great food, cold drinks, sports, live music and dancing in an art-forward atmosphere.</span></h4>",
+    "slug": "the-key-burger-bar-boogie",
+    "image": {
+     "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177.webp",
+     "id": 31217,
+     "extension": "webp",
+     "width": 1600,
+     "height": 1067,
+     "filesize": 161188,
+     "sizes": {
+      "medium": {
+       "width": 300,
+       "height": 200,
+       "mime-type": "image/webp",
+       "filesize": 13228,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-300x200.webp"
+      },
+      "large": {
+       "width": 1024,
+       "height": 683,
+       "mime-type": "image/webp",
+       "filesize": 70882,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-1024x683.webp"
+      },
+      "thumbnail": {
+       "width": 150,
+       "height": 150,
+       "mime-type": "image/webp",
+       "filesize": 6812,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-150x150.webp"
+      },
+      "medium_large": {
+       "width": 768,
+       "height": 512,
+       "mime-type": "image/webp",
+       "filesize": 47014,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-768x512.webp"
+      },
+      "1536x1536": {
+       "width": 1536,
+       "height": 1024,
+       "mime-type": "image/webp",
+       "filesize": 120298,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-1536x1024.webp"
+      }
+     }
+    },
+    "address": "3225 Olive Street",
+    "city": "St. Louis",
+    "country": "United States",
+    "state": "MO",
+    "zip": "63103",
+    "website": "https://www.thekeystl.com/",
+    "stateprovince": "MO",
+    "show_map": false,
+    "show_map_link": true,
+    "global_id": "www.grandcenter.org?id=31216",
+    "global_id_lineage": [
+     "www.grandcenter.org?id=31216"
+    ]
+   },
+   "organizer": [],
+   "is_virtual": false,
+   "virtual_url": null,
+   "virtual_video_source": ""
+  },
+  {
+   "id": 36175,
+   "global_id": "www.grandcenter.org?id=36175",
+   "global_id_lineage": [
+    "www.grandcenter.org?id=36175"
+   ],
+   "author": "11",
+   "status": "publish",
+   "date": "2026-10-30 12:27:23",
+   "date_utc": "2026-10-30 17:27:23",
+   "modified": "2026-10-30 12:27:23",
+   "modified_utc": "2026-10-30 17:27:23",
+   "url": "https://www.grandcenter.org/event/argentine-tango-101-2/2026-12-17/",
+   "rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/36175",
+   "title": "Argentine Tango 101",
+   "description": "<p>No experience needed!</p>",
+   "excerpt": "",
+   "slug": "argentine-tango-101-2-2026-12-17",
+   "image": {
+    "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195.webp",
+    "id": 36162,
+    "extension": "webp",
+    "width": 2500,
+    "height": 1660,
+    "filesize": 157148,
+    "sizes": {
+     "medium": {
+      "width": 300,
+      "height": 199,
+      "mime-type": "image/webp",
+      "filesize": 10950,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-300x199.webp"
+     },
+     "large": {
+      "width": 1024,
+      "height": 680,
+      "mime-type": "image/webp",
+      "filesize": 46584,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-1024x680.webp"
+     },
+     "thumbnail": {
+      "width": 150,
+      "height": 150,
+      "mime-type": "image/webp",
+      "filesize": 7104,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-150x150.webp"
+     },
+     "medium_large": {
+      "width": 768,
+      "height": 510,
+      "mime-type": "image/webp",
+      "filesize": 32338,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-768x510.webp"
+     },
+     "1536x1536": {
+      "width": 1536,
+      "height": 1020,
+      "mime-type": "image/webp",
+      "filesize": 75356,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-1536x1020.webp"
+     },
+     "2048x2048": {
+      "width": 2048,
+      "height": 1360,
+      "mime-type": "image/webp",
+      "filesize": 107566,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-2048x1360.webp"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2026-12-17 18:30:00",
+   "start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "17",
+    "hour": "18",
+    "minutes": "30",
+    "seconds": "00"
+   },
+   "end_date": "2026-12-17 19:30:00",
+   "end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "17",
+    "hour": "19",
+    "minutes": "30",
+    "seconds": "00"
+   },
+   "utc_start_date": "2026-12-18 00:30:00",
+   "utc_start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "18",
+    "hour": "00",
+    "minutes": "30",
+    "seconds": "00"
+   },
+   "utc_end_date": "2026-12-18 01:30:00",
+   "utc_end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "18",
+    "hour": "01",
+    "minutes": "30",
+    "seconds": "00"
+   },
+   "timezone": "America/Chicago",
+   "timezone_abbr": "",
+   "cost": "$10 \u2013 $20",
+   "cost_details": {
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": [
+     "10",
+     "20"
+    ]
+   },
+   "website": "https://www.ballroomdancestl.org/info-schedule",
+   "show_map": false,
+   "show_map_link": true,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Dance",
+     "slug": "dance",
+     "term_group": 0,
+     "term_taxonomy_id": 37,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 215,
+     "filter": "raw",
+     "id": 37,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/37",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 9405,
+    "author": "2",
+    "status": "publish",
+    "date": "2020-06-02 00:47:28",
+    "date_utc": "2020-06-02 05:47:28",
+    "modified": "2020-06-08 14:53:00",
+    "modified_utc": "2020-06-08 19:53:00",
+    "url": "https://www.grandcenter.org/venue/the-grandel-theatre/",
+    "venue": "The Grandel Theatre",
+    "description": "<p>The Grandel Theatre is home to a 600 capacity state of the art theatre;\u00a0The Dark Room at The Grandel\u00a0\u2013 a full-service bar &amp; restaurant featuring rotating gallery quality photography exhibits and free live music seven days a week \u2013 and the Grand Hall at The Grandel \u2013 a beautiful private event space available for rent.</p>",
+    "slug": "the-grandel-theatre",
+    "image": {
+     "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel.jpg",
+     "id": 9983,
+     "extension": "jpg",
+     "width": 1024,
+     "height": 540,
+     "sizes": {
+      "medium": {
+       "width": 300,
+       "height": 158,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel-300x158.jpg"
+      },
+      "thumbnail": {
+       "width": 150,
+       "height": 150,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel-150x150.jpg"
+      },
+      "medium_large": {
+       "width": 768,
+       "height": 405,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel-768x405.jpg"
+      }
+     }
+    },
+    "address": "3610 Grandel Square",
+    "city": "St. Louis",
+    "country": "United States",
+    "state": "MO",
+    "website": "http://www.kranzbergartsfoundation.org/the-grandel/",
+    "stateprovince": "MO",
+    "show_map": false,
+    "show_map_link": false,
+    "global_id": "www.grandcenter.org?id=9405",
+    "global_id_lineage": [
+     "www.grandcenter.org?id=9405"
+    ]
+   },
+   "organizer": [],
+   "is_virtual": false,
+   "virtual_url": null,
+   "virtual_video_source": ""
+  },
+  {
+   "id": 36183,
+   "global_id": "www.grandcenter.org?id=36183",
+   "global_id_lineage": [
+    "www.grandcenter.org?id=36183"
+   ],
+   "author": "11",
+   "status": "publish",
+   "date": "2026-10-30 12:28:44",
+   "date_utc": "2026-10-30 17:28:44",
+   "modified": "2026-10-30 12:28:44",
+   "modified_utc": "2026-10-30 17:28:44",
+   "url": "https://www.grandcenter.org/event/argentine-tango-102-2/2026-12-17/",
+   "rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/36183",
+   "title": "Argentine Tango 102",
+   "description": "<p id=\"yui_3_17_2_1_1793378724923_340\" class=\"\">(requires some experience with Argentine Tango)</p>",
+   "excerpt": "",
+   "slug": "argentine-tango-102-2-2026-12-17",
+   "image": {
+    "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195.webp",
+    "id": 36162,
+    "extension": "webp",
+    "width": 2500,
+    "height": 1660,
+    "filesize": 157148,
+    "sizes": {
+     "medium": {
+      "width": 300,
+      "height": 199,
+      "mime-type": "image/webp",
+      "filesize": 10950,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-300x199.webp"
+     },
+     "large": {
+      "width": 1024,
+      "height": 680,
+      "mime-type": "image/webp",
+      "filesize": 46584,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-1024x680.webp"
+     },
+     "thumbnail": {
+      "width": 150,
+      "height": 150,
+      "mime-type": "image/webp",
+      "filesize": 7104,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-150x150.webp"
+     },
+     "medium_large": {
+      "width": 768,
+      "height": 510,
+      "mime-type": "image/webp",
+      "filesize": 32338,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-768x510.webp"
+     },
+     "1536x1536": {
+      "width": 1536,
+      "height": 1020,
+      "mime-type": "image/webp",
+      "filesize": 75356,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-1536x1020.webp"
+     },
+     "2048x2048": {
+      "width": 2048,
+      "height": 1360,
+      "mime-type": "image/webp",
+      "filesize": 107566,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/DSC_0195-2048x1360.webp"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2026-12-17 19:30:00",
+   "start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "17",
+    "hour": "19",
+    "minutes": "30",
+    "seconds": "00"
+   },
+   "end_date": "2026-12-17 20:30:00",
+   "end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "17",
+    "hour": "20",
+    "minutes": "30",
+    "seconds": "00"
+   },
+   "utc_start_date": "2026-12-18 01:30:00",
+   "utc_start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "18",
+    "hour": "01",
+    "minutes": "30",
+    "seconds": "00"
+   },
+   "utc_end_date": "2026-12-18 02:30:00",
+   "utc_end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "18",
+    "hour": "02",
+    "minutes": "30",
+    "seconds": "00"
+   },
+   "timezone": "America/Chicago",
+   "timezone_abbr": "",
+   "cost": "$10 \u2013 $20",
+   "cost_details": {
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": [
+     "10",
+     "20"
+    ]
+   },
+   "website": "https://www.ballroomdancestl.org/info-schedule",
+   "show_map": false,
+   "show_map_link": true,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Dance",
+     "slug": "dance",
+     "term_group": 0,
+     "term_taxonomy_id": 37,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 215,
+     "filter": "raw",
+     "id": 37,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/37",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 9405,
+    "author": "2",
+    "status": "publish",
+    "date": "2020-06-02 00:47:28",
+    "date_utc": "2020-06-02 05:47:28",
+    "modified": "2020-06-08 14:53:00",
+    "modified_utc": "2020-06-08 19:53:00",
+    "url": "https://www.grandcenter.org/venue/the-grandel-theatre/",
+    "venue": "The Grandel Theatre",
+    "description": "<p>The Grandel Theatre is home to a 600 capacity state of the art theatre;\u00a0The Dark Room at The Grandel\u00a0\u2013 a full-service bar &amp; restaurant featuring rotating gallery quality photography exhibits and free live music seven days a week \u2013 and the Grand Hall at The Grandel \u2013 a beautiful private event space available for rent.</p>",
+    "slug": "the-grandel-theatre",
+    "image": {
+     "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel.jpg",
+     "id": 9983,
+     "extension": "jpg",
+     "width": 1024,
+     "height": 540,
+     "sizes": {
+      "medium": {
+       "width": 300,
+       "height": 158,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel-300x158.jpg"
+      },
+      "thumbnail": {
+       "width": 150,
+       "height": 150,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel-150x150.jpg"
+      },
+      "medium_large": {
+       "width": 768,
+       "height": 405,
+       "mime-type": "image/jpeg",
+       "url": "https://www.grandcenter.org/wp-content/uploads/2020/06/GC_Grandel-768x405.jpg"
+      }
+     }
+    },
+    "address": "3610 Grandel Square",
+    "city": "St. Louis",
+    "country": "United States",
+    "state": "MO",
+    "website": "http://www.kranzbergartsfoundation.org/the-grandel/",
+    "stateprovince": "MO",
+    "show_map": false,
+    "show_map_link": false,
+    "global_id": "www.grandcenter.org?id=9405",
+    "global_id_lineage": [
+     "www.grandcenter.org?id=9405"
+    ]
+   },
+   "organizer": [],
+   "is_virtual": false,
+   "virtual_url": null,
+   "virtual_video_source": ""
+  },
+  {
+   "id": 36077,
+   "global_id": "www.grandcenter.org?id=36077",
+   "global_id_lineage": [
+    "www.grandcenter.org?id=36077"
+   ],
+   "author": "11",
+   "status": "publish",
+   "date": "2026-10-13 10:19:28",
+   "date_utc": "2026-10-13 15:19:28",
+   "modified": "2026-10-13 10:19:28",
+   "modified_utc": "2026-10-13 15:19:28",
+   "url": "https://www.grandcenter.org/event/jam-sessions-presented-by-jazz-st-louis-2/2026-12-17/",
+   "rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/36077",
+   "title": "Jam Sessions: Presented By Jazz St. Louis",
+   "description": "<p>The Key &amp; Jazz St. Louis partner to bring a weekly Jazz Jam series every Thursday 9-11pm. Bring your friends and keep the music playing with us all summer long.</p>",
+   "excerpt": "",
+   "slug": "jam-sessions-presented-by-jazz-st-louis-2-2026-12-17",
+   "image": {
+    "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/JazzJamAtTheKey-1.webp",
+    "id": 36070,
+    "extension": "webp",
+    "width": 750,
+    "height": 938,
+    "filesize": 97986,
+    "sizes": {
+     "medium": {
+      "width": 240,
+      "height": 300,
+      "mime-type": "image/webp",
+      "filesize": 15864,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/JazzJamAtTheKey-1-240x300.webp"
+     },
+     "thumbnail": {
+      "width": 150,
+      "height": 150,
+      "mime-type": "image/webp",
+      "filesize": 6670,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/JazzJamAtTheKey-1-150x150.webp"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2026-12-17 21:00:00",
+   "start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "17",
+    "hour": "21",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "end_date": "2026-12-17 23:00:00",
+   "end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "17",
+    "hour": "23",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_start_date": "2026-12-18 03:00:00",
+   "utc_start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "18",
+    "hour": "03",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_end_date": "2026-12-18 05:00:00",
+   "utc_end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "18",
+    "hour": "05",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "timezone": "America/Chicago",
+   "timezone_abbr": "",
+   "cost": "Free",
+   "cost_details": {
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": [
+     "0"
+    ]
+   },
+   "website": "https://www.thekeystl.com/events/0twm5yh1xdl2rvffba2h4bhfhlzorp-7pc45-6wjkk-6nxeh-cgcaa-m6hkc-pge48-s3gxf-689eh-9gzy7-amcyh",
+   "show_map": false,
+   "show_map_link": true,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Food &amp; Drink",
+     "slug": "food-drink",
+     "term_group": 0,
+     "term_taxonomy_id": 11,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 594,
+     "filter": "raw",
+     "id": 11,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/11",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    },
+    {
+     "name": "Music",
+     "slug": "music",
+     "term_group": 0,
+     "term_taxonomy_id": 14,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 1544,
+     "filter": "raw",
+     "id": 14,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/14",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 31216,
+    "author": "11",
+    "status": "publish",
+    "date": "2025-11-13 15:35:55",
+    "date_utc": "2025-11-13 21:35:55",
+    "modified": "2025-11-13 15:35:55",
+    "modified_utc": "2025-11-13 21:35:55",
+    "url": "https://www.grandcenter.org/venue/the-key-burger-bar-boogie/",
+    "venue": "The Key Burger Bar &#038; Boogie",
+    "description": "<h4><span class=\"sqsrte-text-color--lightAccent\">Welcome to The Key Burger Bar &amp; Boogie, a new concept in the Grand Center Arts District from the </span><a href=\"https://kranzbergartsfoundation.org/\"><span class=\"sqsrte-text-color--lightAccent\">Kranzberg Arts Foundation</span></a><span class=\"sqsrte-text-color--lightAccent\"> that is destined to be your favorite neighborhood hang. The Key offers a comfortable and welcoming gathering spot for all to enjoy great food, cold drinks, sports, live music and dancing in an art-forward atmosphere.</span></h4>",
+    "slug": "the-key-burger-bar-boogie",
+    "image": {
+     "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177.webp",
+     "id": 31217,
+     "extension": "webp",
+     "width": 1600,
+     "height": 1067,
+     "filesize": 161188,
+     "sizes": {
+      "medium": {
+       "width": 300,
+       "height": 200,
+       "mime-type": "image/webp",
+       "filesize": 13228,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-300x200.webp"
+      },
+      "large": {
+       "width": 1024,
+       "height": 683,
+       "mime-type": "image/webp",
+       "filesize": 70882,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-1024x683.webp"
+      },
+      "thumbnail": {
+       "width": 150,
+       "height": 150,
+       "mime-type": "image/webp",
+       "filesize": 6812,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-150x150.webp"
+      },
+      "medium_large": {
+       "width": 768,
+       "height": 512,
+       "mime-type": "image/webp",
+       "filesize": 47014,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-768x512.webp"
+      },
+      "1536x1536": {
+       "width": 1536,
+       "height": 1024,
+       "mime-type": "image/webp",
+       "filesize": 120298,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-1536x1024.webp"
+      }
+     }
+    },
+    "address": "3225 Olive Street",
+    "city": "St. Louis",
+    "country": "United States",
+    "state": "MO",
+    "zip": "63103",
+    "website": "https://www.thekeystl.com/",
+    "stateprovince": "MO",
+    "show_map": false,
+    "show_map_link": true,
+    "global_id": "www.grandcenter.org?id=31216",
+    "global_id_lineage": [
+     "www.grandcenter.org?id=31216"
+    ]
+   },
+   "organizer": [],
+   "is_virtual": false,
+   "virtual_url": null,
+   "virtual_video_source": ""
+  },
+  {
+   "id": 36078,
+   "global_id": "www.grandcenter.org?id=36078",
+   "global_id_lineage": [
+    "www.grandcenter.org?id=36078"
+   ],
+   "author": "11",
+   "status": "publish",
+   "date": "2026-10-13 10:19:28",
+   "date_utc": "2026-10-13 15:19:28",
+   "modified": "2026-10-13 10:19:28",
+   "modified_utc": "2026-10-13 15:19:28",
+   "url": "https://www.grandcenter.org/event/jam-sessions-presented-by-jazz-st-louis-2/2026-12-24/",
+   "rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/36078",
+   "title": "Jam Sessions: Presented By Jazz St. Louis",
+   "description": "<p>The Key &amp; Jazz St. Louis partner to bring a weekly Jazz Jam series every Thursday 9-11pm. Bring your friends and keep the music playing with us all summer long.</p>",
+   "excerpt": "",
+   "slug": "jam-sessions-presented-by-jazz-st-louis-2-2026-12-24",
+   "image": {
+    "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/JazzJamAtTheKey-1.webp",
+    "id": 36070,
+    "extension": "webp",
+    "width": 750,
+    "height": 938,
+    "filesize": 97986,
+    "sizes": {
+     "medium": {
+      "width": 240,
+      "height": 300,
+      "mime-type": "image/webp",
+      "filesize": 15864,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/JazzJamAtTheKey-1-240x300.webp"
+     },
+     "thumbnail": {
+      "width": 150,
+      "height": 150,
+      "mime-type": "image/webp",
+      "filesize": 6670,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/JazzJamAtTheKey-1-150x150.webp"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2026-12-24 21:00:00",
+   "start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "24",
+    "hour": "21",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "end_date": "2026-12-24 23:00:00",
+   "end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "24",
+    "hour": "23",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_start_date": "2026-12-25 03:00:00",
+   "utc_start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "25",
+    "hour": "03",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_end_date": "2026-12-25 05:00:00",
+   "utc_end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "25",
+    "hour": "05",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "timezone": "America/Chicago",
+   "timezone_abbr": "",
+   "cost": "Free",
+   "cost_details": {
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": [
+     "0"
+    ]
+   },
+   "website": "https://www.thekeystl.com/events/0twm5yh1xdl2rvffba2h4bhfhlzorp-7pc45-6wjkk-6nxeh-cgcaa-m6hkc-pge48-s3gxf-689eh-9gzy7-amcyh",
+   "show_map": false,
+   "show_map_link": true,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Food &amp; Drink",
+     "slug": "food-drink",
+     "term_group": 0,
+     "term_taxonomy_id": 11,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 594,
+     "filter": "raw",
+     "id": 11,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/11",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    },
+    {
+     "name": "Music",
+     "slug": "music",
+     "term_group": 0,
+     "term_taxonomy_id": 14,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 1544,
+     "filter": "raw",
+     "id": 14,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/14",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 31216,
+    "author": "11",
+    "status": "publish",
+    "date": "2025-11-13 15:35:55",
+    "date_utc": "2025-11-13 21:35:55",
+    "modified": "2025-11-13 15:35:55",
+    "modified_utc": "2025-11-13 21:35:55",
+    "url": "https://www.grandcenter.org/venue/the-key-burger-bar-boogie/",
+    "venue": "The Key Burger Bar &#038; Boogie",
+    "description": "<h4><span class=\"sqsrte-text-color--lightAccent\">Welcome to The Key Burger Bar &amp; Boogie, a new concept in the Grand Center Arts District from the </span><a href=\"https://kranzbergartsfoundation.org/\"><span class=\"sqsrte-text-color--lightAccent\">Kranzberg Arts Foundation</span></a><span class=\"sqsrte-text-color--lightAccent\"> that is destined to be your favorite neighborhood hang. The Key offers a comfortable and welcoming gathering spot for all to enjoy great food, cold drinks, sports, live music and dancing in an art-forward atmosphere.</span></h4>",
+    "slug": "the-key-burger-bar-boogie",
+    "image": {
+     "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177.webp",
+     "id": 31217,
+     "extension": "webp",
+     "width": 1600,
+     "height": 1067,
+     "filesize": 161188,
+     "sizes": {
+      "medium": {
+       "width": 300,
+       "height": 200,
+       "mime-type": "image/webp",
+       "filesize": 13228,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-300x200.webp"
+      },
+      "large": {
+       "width": 1024,
+       "height": 683,
+       "mime-type": "image/webp",
+       "filesize": 70882,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-1024x683.webp"
+      },
+      "thumbnail": {
+       "width": 150,
+       "height": 150,
+       "mime-type": "image/webp",
+       "filesize": 6812,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-150x150.webp"
+      },
+      "medium_large": {
+       "width": 768,
+       "height": 512,
+       "mime-type": "image/webp",
+       "filesize": 47014,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-768x512.webp"
+      },
+      "1536x1536": {
+       "width": 1536,
+       "height": 1024,
+       "mime-type": "image/webp",
+       "filesize": 120298,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-1536x1024.webp"
+      }
+     }
+    },
+    "address": "3225 Olive Street",
+    "city": "St. Louis",
+    "country": "United States",
+    "state": "MO",
+    "zip": "63103",
+    "website": "https://www.thekeystl.com/",
+    "stateprovince": "MO",
+    "show_map": false,
+    "show_map_link": true,
+    "global_id": "www.grandcenter.org?id=31216",
+    "global_id_lineage": [
+     "www.grandcenter.org?id=31216"
+    ]
+   },
+   "organizer": [],
+   "is_virtual": false,
+   "virtual_url": null,
+   "virtual_video_source": ""
+  },
+  {
+   "id": 36079,
+   "global_id": "www.grandcenter.org?id=36079",
+   "global_id_lineage": [
+    "www.grandcenter.org?id=36079"
+   ],
+   "author": "11",
+   "status": "publish",
+   "date": "2026-10-13 10:19:28",
+   "date_utc": "2026-10-13 15:19:28",
+   "modified": "2026-10-13 10:19:28",
+   "modified_utc": "2026-10-13 15:19:28",
+   "url": "https://www.grandcenter.org/event/jam-sessions-presented-by-jazz-st-louis-2/2026-12-31/",
+   "rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/36079",
+   "title": "Jam Sessions: Presented By Jazz St. Louis",
+   "description": "<p>The Key &amp; Jazz St. Louis partner to bring a weekly Jazz Jam series every Thursday 9-11pm. Bring your friends and keep the music playing with us all summer long.</p>",
+   "excerpt": "",
+   "slug": "jam-sessions-presented-by-jazz-st-louis-2-2026-12-31",
+   "image": {
+    "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/JazzJamAtTheKey-1.webp",
+    "id": 36070,
+    "extension": "webp",
+    "width": 750,
+    "height": 938,
+    "filesize": 97986,
+    "sizes": {
+     "medium": {
+      "width": 240,
+      "height": 300,
+      "mime-type": "image/webp",
+      "filesize": 15864,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/JazzJamAtTheKey-1-240x300.webp"
+     },
+     "thumbnail": {
+      "width": 150,
+      "height": 150,
+      "mime-type": "image/webp",
+      "filesize": 6670,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/JazzJamAtTheKey-1-150x150.webp"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2026-12-31 21:00:00",
+   "start_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "31",
+    "hour": "21",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "end_date": "2026-12-31 23:00:00",
+   "end_date_details": {
+    "year": "2026",
+    "month": "12",
+    "day": "31",
+    "hour": "23",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_start_date": "2027-01-01 03:00:00",
+   "utc_start_date_details": {
+    "year": "2027",
+    "month": "01",
+    "day": "01",
+    "hour": "03",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_end_date": "2027-01-01 05:00:00",
+   "utc_end_date_details": {
+    "year": "2027",
+    "month": "01",
+    "day": "01",
+    "hour": "05",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "timezone": "America/Chicago",
+   "timezone_abbr": "",
+   "cost": "Free",
+   "cost_details": {
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": [
+     "0"
+    ]
+   },
+   "website": "https://www.thekeystl.com/events/0twm5yh1xdl2rvffba2h4bhfhlzorp-7pc45-6wjkk-6nxeh-cgcaa-m6hkc-pge48-s3gxf-689eh-9gzy7-amcyh",
+   "show_map": false,
+   "show_map_link": true,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Food &amp; Drink",
+     "slug": "food-drink",
+     "term_group": 0,
+     "term_taxonomy_id": 11,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 594,
+     "filter": "raw",
+     "id": 11,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/11",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    },
+    {
+     "name": "Music",
+     "slug": "music",
+     "term_group": 0,
+     "term_taxonomy_id": 14,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 1544,
+     "filter": "raw",
+     "id": 14,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/14",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 31216,
+    "author": "11",
+    "status": "publish",
+    "date": "2025-11-13 15:35:55",
+    "date_utc": "2025-11-13 21:35:55",
+    "modified": "2025-11-13 15:35:55",
+    "modified_utc": "2025-11-13 21:35:55",
+    "url": "https://www.grandcenter.org/venue/the-key-burger-bar-boogie/",
+    "venue": "The Key Burger Bar &#038; Boogie",
+    "description": "<h4><span class=\"sqsrte-text-color--lightAccent\">Welcome to The Key Burger Bar &amp; Boogie, a new concept in the Grand Center Arts District from the </span><a href=\"https://kranzbergartsfoundation.org/\"><span class=\"sqsrte-text-color--lightAccent\">Kranzberg Arts Foundation</span></a><span class=\"sqsrte-text-color--lightAccent\"> that is destined to be your favorite neighborhood hang. The Key offers a comfortable and welcoming gathering spot for all to enjoy great food, cold drinks, sports, live music and dancing in an art-forward atmosphere.</span></h4>",
+    "slug": "the-key-burger-bar-boogie",
+    "image": {
+     "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177.webp",
+     "id": 31217,
+     "extension": "webp",
+     "width": 1600,
+     "height": 1067,
+     "filesize": 161188,
+     "sizes": {
+      "medium": {
+       "width": 300,
+       "height": 200,
+       "mime-type": "image/webp",
+       "filesize": 13228,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-300x200.webp"
+      },
+      "large": {
+       "width": 1024,
+       "height": 683,
+       "mime-type": "image/webp",
+       "filesize": 70882,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-1024x683.webp"
+      },
+      "thumbnail": {
+       "width": 150,
+       "height": 150,
+       "mime-type": "image/webp",
+       "filesize": 6812,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-150x150.webp"
+      },
+      "medium_large": {
+       "width": 768,
+       "height": 512,
+       "mime-type": "image/webp",
+       "filesize": 47014,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-768x512.webp"
+      },
+      "1536x1536": {
+       "width": 1536,
+       "height": 1024,
+       "mime-type": "image/webp",
+       "filesize": 120298,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-1536x1024.webp"
+      }
+     }
+    },
+    "address": "3225 Olive Street",
+    "city": "St. Louis",
+    "country": "United States",
+    "state": "MO",
+    "zip": "63103",
+    "website": "https://www.thekeystl.com/",
+    "stateprovince": "MO",
+    "show_map": false,
+    "show_map_link": true,
+    "global_id": "www.grandcenter.org?id=31216",
+    "global_id_lineage": [
+     "www.grandcenter.org?id=31216"
+    ]
+   },
+   "organizer": [],
+   "is_virtual": false,
+   "virtual_url": null,
+   "virtual_video_source": ""
+  },
+  {
+   "id": 36080,
+   "global_id": "www.grandcenter.org?id=36080",
+   "global_id_lineage": [
+    "www.grandcenter.org?id=36080"
+   ],
+   "author": "11",
+   "status": "publish",
+   "date": "2026-10-13 10:19:28",
+   "date_utc": "2026-10-13 15:19:28",
+   "modified": "2026-10-13 10:19:28",
+   "modified_utc": "2026-10-13 15:19:28",
+   "url": "https://www.grandcenter.org/event/jam-sessions-presented-by-jazz-st-louis-2/2027-01-07/",
+   "rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/36080",
+   "title": "Jam Sessions: Presented By Jazz St. Louis",
+   "description": "<p>The Key &amp; Jazz St. Louis partner to bring a weekly Jazz Jam series every Thursday 9-11pm. Bring your friends and keep the music playing with us all summer long.</p>",
+   "excerpt": "",
+   "slug": "jam-sessions-presented-by-jazz-st-louis-2-2027-01-07",
+   "image": {
+    "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/JazzJamAtTheKey-1.webp",
+    "id": 36070,
+    "extension": "webp",
+    "width": 750,
+    "height": 938,
+    "filesize": 97986,
+    "sizes": {
+     "medium": {
+      "width": 240,
+      "height": 300,
+      "mime-type": "image/webp",
+      "filesize": 15864,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/JazzJamAtTheKey-1-240x300.webp"
+     },
+     "thumbnail": {
+      "width": 150,
+      "height": 150,
+      "mime-type": "image/webp",
+      "filesize": 6670,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/JazzJamAtTheKey-1-150x150.webp"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2027-01-07 21:00:00",
+   "start_date_details": {
+    "year": "2027",
+    "month": "01",
+    "day": "07",
+    "hour": "21",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "end_date": "2027-01-07 23:00:00",
+   "end_date_details": {
+    "year": "2027",
+    "month": "01",
+    "day": "07",
+    "hour": "23",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_start_date": "2027-01-08 03:00:00",
+   "utc_start_date_details": {
+    "year": "2027",
+    "month": "01",
+    "day": "08",
+    "hour": "03",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_end_date": "2027-01-08 05:00:00",
+   "utc_end_date_details": {
+    "year": "2027",
+    "month": "01",
+    "day": "08",
+    "hour": "05",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "timezone": "America/Chicago",
+   "timezone_abbr": "",
+   "cost": "Free",
+   "cost_details": {
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": [
+     "0"
+    ]
+   },
+   "website": "https://www.thekeystl.com/events/0twm5yh1xdl2rvffba2h4bhfhlzorp-7pc45-6wjkk-6nxeh-cgcaa-m6hkc-pge48-s3gxf-689eh-9gzy7-amcyh",
+   "show_map": false,
+   "show_map_link": true,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Food &amp; Drink",
+     "slug": "food-drink",
+     "term_group": 0,
+     "term_taxonomy_id": 11,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 594,
+     "filter": "raw",
+     "id": 11,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/11",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    },
+    {
+     "name": "Music",
+     "slug": "music",
+     "term_group": 0,
+     "term_taxonomy_id": 14,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 1544,
+     "filter": "raw",
+     "id": 14,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/14",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 31216,
+    "author": "11",
+    "status": "publish",
+    "date": "2025-11-13 15:35:55",
+    "date_utc": "2025-11-13 21:35:55",
+    "modified": "2025-11-13 15:35:55",
+    "modified_utc": "2025-11-13 21:35:55",
+    "url": "https://www.grandcenter.org/venue/the-key-burger-bar-boogie/",
+    "venue": "The Key Burger Bar &#038; Boogie",
+    "description": "<h4><span class=\"sqsrte-text-color--lightAccent\">Welcome to The Key Burger Bar &amp; Boogie, a new concept in the Grand Center Arts District from the </span><a href=\"https://kranzbergartsfoundation.org/\"><span class=\"sqsrte-text-color--lightAccent\">Kranzberg Arts Foundation</span></a><span class=\"sqsrte-text-color--lightAccent\"> that is destined to be your favorite neighborhood hang. The Key offers a comfortable and welcoming gathering spot for all to enjoy great food, cold drinks, sports, live music and dancing in an art-forward atmosphere.</span></h4>",
+    "slug": "the-key-burger-bar-boogie",
+    "image": {
+     "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177.webp",
+     "id": 31217,
+     "extension": "webp",
+     "width": 1600,
+     "height": 1067,
+     "filesize": 161188,
+     "sizes": {
+      "medium": {
+       "width": 300,
+       "height": 200,
+       "mime-type": "image/webp",
+       "filesize": 13228,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-300x200.webp"
+      },
+      "large": {
+       "width": 1024,
+       "height": 683,
+       "mime-type": "image/webp",
+       "filesize": 70882,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-1024x683.webp"
+      },
+      "thumbnail": {
+       "width": 150,
+       "height": 150,
+       "mime-type": "image/webp",
+       "filesize": 6812,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-150x150.webp"
+      },
+      "medium_large": {
+       "width": 768,
+       "height": 512,
+       "mime-type": "image/webp",
+       "filesize": 47014,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-768x512.webp"
+      },
+      "1536x1536": {
+       "width": 1536,
+       "height": 1024,
+       "mime-type": "image/webp",
+       "filesize": 120298,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-1536x1024.webp"
+      }
+     }
+    },
+    "address": "3225 Olive Street",
+    "city": "St. Louis",
+    "country": "United States",
+    "state": "MO",
+    "zip": "63103",
+    "website": "https://www.thekeystl.com/",
+    "stateprovince": "MO",
+    "show_map": false,
+    "show_map_link": true,
+    "global_id": "www.grandcenter.org?id=31216",
+    "global_id_lineage": [
+     "www.grandcenter.org?id=31216"
+    ]
+   },
+   "organizer": [],
+   "is_virtual": false,
+   "virtual_url": null,
+   "virtual_video_source": ""
+  },
+  {
+   "id": 36081,
+   "global_id": "www.grandcenter.org?id=36081",
+   "global_id_lineage": [
+    "www.grandcenter.org?id=36081"
+   ],
+   "author": "11",
+   "status": "publish",
+   "date": "2026-10-13 10:19:28",
+   "date_utc": "2026-10-13 15:19:28",
+   "modified": "2026-10-13 10:19:28",
+   "modified_utc": "2026-10-13 15:19:28",
+   "url": "https://www.grandcenter.org/event/jam-sessions-presented-by-jazz-st-louis-2/2027-01-14/",
+   "rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/36081",
+   "title": "Jam Sessions: Presented By Jazz St. Louis",
+   "description": "<p>The Key &amp; Jazz St. Louis partner to bring a weekly Jazz Jam series every Thursday 9-11pm. Bring your friends and keep the music playing with us all summer long.</p>",
+   "excerpt": "",
+   "slug": "jam-sessions-presented-by-jazz-st-louis-2-2027-01-14",
+   "image": {
+    "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/JazzJamAtTheKey-1.webp",
+    "id": 36070,
+    "extension": "webp",
+    "width": 750,
+    "height": 938,
+    "filesize": 97986,
+    "sizes": {
+     "medium": {
+      "width": 240,
+      "height": 300,
+      "mime-type": "image/webp",
+      "filesize": 15864,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/JazzJamAtTheKey-1-240x300.webp"
+     },
+     "thumbnail": {
+      "width": 150,
+      "height": 150,
+      "mime-type": "image/webp",
+      "filesize": 6670,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/JazzJamAtTheKey-1-150x150.webp"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2027-01-14 21:00:00",
+   "start_date_details": {
+    "year": "2027",
+    "month": "01",
+    "day": "14",
+    "hour": "21",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "end_date": "2027-01-14 23:00:00",
+   "end_date_details": {
+    "year": "2027",
+    "month": "01",
+    "day": "14",
+    "hour": "23",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_start_date": "2027-01-15 03:00:00",
+   "utc_start_date_details": {
+    "year": "2027",
+    "month": "01",
+    "day": "15",
+    "hour": "03",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_end_date": "2027-01-15 05:00:00",
+   "utc_end_date_details": {
+    "year": "2027",
+    "month": "01",
+    "day": "15",
+    "hour": "05",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "timezone": "America/Chicago",
+   "timezone_abbr": "",
+   "cost": "Free",
+   "cost_details": {
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": [
+     "0"
+    ]
+   },
+   "website": "https://www.thekeystl.com/events/0twm5yh1xdl2rvffba2h4bhfhlzorp-7pc45-6wjkk-6nxeh-cgcaa-m6hkc-pge48-s3gxf-689eh-9gzy7-amcyh",
+   "show_map": false,
+   "show_map_link": true,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Food &amp; Drink",
+     "slug": "food-drink",
+     "term_group": 0,
+     "term_taxonomy_id": 11,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 594,
+     "filter": "raw",
+     "id": 11,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/11",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    },
+    {
+     "name": "Music",
+     "slug": "music",
+     "term_group": 0,
+     "term_taxonomy_id": 14,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 1544,
+     "filter": "raw",
+     "id": 14,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/14",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 31216,
+    "author": "11",
+    "status": "publish",
+    "date": "2025-11-13 15:35:55",
+    "date_utc": "2025-11-13 21:35:55",
+    "modified": "2025-11-13 15:35:55",
+    "modified_utc": "2025-11-13 21:35:55",
+    "url": "https://www.grandcenter.org/venue/the-key-burger-bar-boogie/",
+    "venue": "The Key Burger Bar &#038; Boogie",
+    "description": "<h4><span class=\"sqsrte-text-color--lightAccent\">Welcome to The Key Burger Bar &amp; Boogie, a new concept in the Grand Center Arts District from the </span><a href=\"https://kranzbergartsfoundation.org/\"><span class=\"sqsrte-text-color--lightAccent\">Kranzberg Arts Foundation</span></a><span class=\"sqsrte-text-color--lightAccent\"> that is destined to be your favorite neighborhood hang. The Key offers a comfortable and welcoming gathering spot for all to enjoy great food, cold drinks, sports, live music and dancing in an art-forward atmosphere.</span></h4>",
+    "slug": "the-key-burger-bar-boogie",
+    "image": {
+     "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177.webp",
+     "id": 31217,
+     "extension": "webp",
+     "width": 1600,
+     "height": 1067,
+     "filesize": 161188,
+     "sizes": {
+      "medium": {
+       "width": 300,
+       "height": 200,
+       "mime-type": "image/webp",
+       "filesize": 13228,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-300x200.webp"
+      },
+      "large": {
+       "width": 1024,
+       "height": 683,
+       "mime-type": "image/webp",
+       "filesize": 70882,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-1024x683.webp"
+      },
+      "thumbnail": {
+       "width": 150,
+       "height": 150,
+       "mime-type": "image/webp",
+       "filesize": 6812,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-150x150.webp"
+      },
+      "medium_large": {
+       "width": 768,
+       "height": 512,
+       "mime-type": "image/webp",
+       "filesize": 47014,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-768x512.webp"
+      },
+      "1536x1536": {
+       "width": 1536,
+       "height": 1024,
+       "mime-type": "image/webp",
+       "filesize": 120298,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-1536x1024.webp"
+      }
+     }
+    },
+    "address": "3225 Olive Street",
+    "city": "St. Louis",
+    "country": "United States",
+    "state": "MO",
+    "zip": "63103",
+    "website": "https://www.thekeystl.com/",
+    "stateprovince": "MO",
+    "show_map": false,
+    "show_map_link": true,
+    "global_id": "www.grandcenter.org?id=31216",
+    "global_id_lineage": [
+     "www.grandcenter.org?id=31216"
+    ]
+   },
+   "organizer": [],
+   "is_virtual": false,
+   "virtual_url": null,
+   "virtual_video_source": ""
+  },
+  {
+   "id": 36082,
+   "global_id": "www.grandcenter.org?id=36082",
+   "global_id_lineage": [
+    "www.grandcenter.org?id=36082"
+   ],
+   "author": "11",
+   "status": "publish",
+   "date": "2026-10-13 10:19:28",
+   "date_utc": "2026-10-13 15:19:28",
+   "modified": "2026-10-13 10:19:28",
+   "modified_utc": "2026-10-13 15:19:28",
+   "url": "https://www.grandcenter.org/event/jam-sessions-presented-by-jazz-st-louis-2/2027-01-21/",
+   "rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/36082",
+   "title": "Jam Sessions: Presented By Jazz St. Louis",
+   "description": "<p>The Key &amp; Jazz St. Louis partner to bring a weekly Jazz Jam series every Thursday 9-11pm. Bring your friends and keep the music playing with us all summer long.</p>",
+   "excerpt": "",
+   "slug": "jam-sessions-presented-by-jazz-st-louis-2-2027-01-21",
+   "image": {
+    "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/JazzJamAtTheKey-1.webp",
+    "id": 36070,
+    "extension": "webp",
+    "width": 750,
+    "height": 938,
+    "filesize": 97986,
+    "sizes": {
+     "medium": {
+      "width": 240,
+      "height": 300,
+      "mime-type": "image/webp",
+      "filesize": 15864,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/JazzJamAtTheKey-1-240x300.webp"
+     },
+     "thumbnail": {
+      "width": 150,
+      "height": 150,
+      "mime-type": "image/webp",
+      "filesize": 6670,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/JazzJamAtTheKey-1-150x150.webp"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2027-01-21 21:00:00",
+   "start_date_details": {
+    "year": "2027",
+    "month": "01",
+    "day": "21",
+    "hour": "21",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "end_date": "2027-01-21 23:00:00",
+   "end_date_details": {
+    "year": "2027",
+    "month": "01",
+    "day": "21",
+    "hour": "23",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_start_date": "2027-01-22 03:00:00",
+   "utc_start_date_details": {
+    "year": "2027",
+    "month": "01",
+    "day": "22",
+    "hour": "03",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_end_date": "2027-01-22 05:00:00",
+   "utc_end_date_details": {
+    "year": "2027",
+    "month": "01",
+    "day": "22",
+    "hour": "05",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "timezone": "America/Chicago",
+   "timezone_abbr": "",
+   "cost": "Free",
+   "cost_details": {
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": [
+     "0"
+    ]
+   },
+   "website": "https://www.thekeystl.com/events/0twm5yh1xdl2rvffba2h4bhfhlzorp-7pc45-6wjkk-6nxeh-cgcaa-m6hkc-pge48-s3gxf-689eh-9gzy7-amcyh",
+   "show_map": false,
+   "show_map_link": true,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Food &amp; Drink",
+     "slug": "food-drink",
+     "term_group": 0,
+     "term_taxonomy_id": 11,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 594,
+     "filter": "raw",
+     "id": 11,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/11",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    },
+    {
+     "name": "Music",
+     "slug": "music",
+     "term_group": 0,
+     "term_taxonomy_id": 14,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 1544,
+     "filter": "raw",
+     "id": 14,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/14",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 31216,
+    "author": "11",
+    "status": "publish",
+    "date": "2025-11-13 15:35:55",
+    "date_utc": "2025-11-13 21:35:55",
+    "modified": "2025-11-13 15:35:55",
+    "modified_utc": "2025-11-13 21:35:55",
+    "url": "https://www.grandcenter.org/venue/the-key-burger-bar-boogie/",
+    "venue": "The Key Burger Bar &#038; Boogie",
+    "description": "<h4><span class=\"sqsrte-text-color--lightAccent\">Welcome to The Key Burger Bar &amp; Boogie, a new concept in the Grand Center Arts District from the </span><a href=\"https://kranzbergartsfoundation.org/\"><span class=\"sqsrte-text-color--lightAccent\">Kranzberg Arts Foundation</span></a><span class=\"sqsrte-text-color--lightAccent\"> that is destined to be your favorite neighborhood hang. The Key offers a comfortable and welcoming gathering spot for all to enjoy great food, cold drinks, sports, live music and dancing in an art-forward atmosphere.</span></h4>",
+    "slug": "the-key-burger-bar-boogie",
+    "image": {
+     "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177.webp",
+     "id": 31217,
+     "extension": "webp",
+     "width": 1600,
+     "height": 1067,
+     "filesize": 161188,
+     "sizes": {
+      "medium": {
+       "width": 300,
+       "height": 200,
+       "mime-type": "image/webp",
+       "filesize": 13228,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-300x200.webp"
+      },
+      "large": {
+       "width": 1024,
+       "height": 683,
+       "mime-type": "image/webp",
+       "filesize": 70882,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-1024x683.webp"
+      },
+      "thumbnail": {
+       "width": 150,
+       "height": 150,
+       "mime-type": "image/webp",
+       "filesize": 6812,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-150x150.webp"
+      },
+      "medium_large": {
+       "width": 768,
+       "height": 512,
+       "mime-type": "image/webp",
+       "filesize": 47014,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-768x512.webp"
+      },
+      "1536x1536": {
+       "width": 1536,
+       "height": 1024,
+       "mime-type": "image/webp",
+       "filesize": 120298,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-1536x1024.webp"
+      }
+     }
+    },
+    "address": "3225 Olive Street",
+    "city": "St. Louis",
+    "country": "United States",
+    "state": "MO",
+    "zip": "63103",
+    "website": "https://www.thekeystl.com/",
+    "stateprovince": "MO",
+    "show_map": false,
+    "show_map_link": true,
+    "global_id": "www.grandcenter.org?id=31216",
+    "global_id_lineage": [
+     "www.grandcenter.org?id=31216"
+    ]
+   },
+   "organizer": [],
+   "is_virtual": false,
+   "virtual_url": null,
+   "virtual_video_source": ""
+  },
+  {
+   "id": 36083,
+   "global_id": "www.grandcenter.org?id=36083",
+   "global_id_lineage": [
+    "www.grandcenter.org?id=36083"
+   ],
+   "author": "11",
+   "status": "publish",
+   "date": "2026-10-13 10:19:28",
+   "date_utc": "2026-10-13 15:19:28",
+   "modified": "2026-10-13 10:19:28",
+   "modified_utc": "2026-10-13 15:19:28",
+   "url": "https://www.grandcenter.org/event/jam-sessions-presented-by-jazz-st-louis-2/2027-01-28/",
+   "rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/36083",
+   "title": "Jam Sessions: Presented By Jazz St. Louis",
+   "description": "<p>The Key &amp; Jazz St. Louis partner to bring a weekly Jazz Jam series every Thursday 9-11pm. Bring your friends and keep the music playing with us all summer long.</p>",
+   "excerpt": "",
+   "slug": "jam-sessions-presented-by-jazz-st-louis-2-2027-01-28",
+   "image": {
+    "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/JazzJamAtTheKey-1.webp",
+    "id": 36070,
+    "extension": "webp",
+    "width": 750,
+    "height": 938,
+    "filesize": 97986,
+    "sizes": {
+     "medium": {
+      "width": 240,
+      "height": 300,
+      "mime-type": "image/webp",
+      "filesize": 15864,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/JazzJamAtTheKey-1-240x300.webp"
+     },
+     "thumbnail": {
+      "width": 150,
+      "height": 150,
+      "mime-type": "image/webp",
+      "filesize": 6670,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/10/JazzJamAtTheKey-1-150x150.webp"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2027-01-28 21:00:00",
+   "start_date_details": {
+    "year": "2027",
+    "month": "01",
+    "day": "28",
+    "hour": "21",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "end_date": "2027-01-28 23:00:00",
+   "end_date_details": {
+    "year": "2027",
+    "month": "01",
+    "day": "28",
+    "hour": "23",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_start_date": "2027-01-29 03:00:00",
+   "utc_start_date_details": {
+    "year": "2027",
+    "month": "01",
+    "day": "29",
+    "hour": "03",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_end_date": "2027-01-29 05:00:00",
+   "utc_end_date_details": {
+    "year": "2027",
+    "month": "01",
+    "day": "29",
+    "hour": "05",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "timezone": "America/Chicago",
+   "timezone_abbr": "",
+   "cost": "Free",
+   "cost_details": {
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": [
+     "0"
+    ]
+   },
+   "website": "https://www.thekeystl.com/events/0twm5yh1xdl2rvffba2h4bhfhlzorp-7pc45-6wjkk-6nxeh-cgcaa-m6hkc-pge48-s3gxf-689eh-9gzy7-amcyh",
+   "show_map": false,
+   "show_map_link": true,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Food &amp; Drink",
+     "slug": "food-drink",
+     "term_group": 0,
+     "term_taxonomy_id": 11,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 594,
+     "filter": "raw",
+     "id": 11,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/11",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    },
+    {
+     "name": "Music",
+     "slug": "music",
+     "term_group": 0,
+     "term_taxonomy_id": 14,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 1544,
+     "filter": "raw",
+     "id": 14,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/14",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 31216,
+    "author": "11",
+    "status": "publish",
+    "date": "2025-11-13 15:35:55",
+    "date_utc": "2025-11-13 21:35:55",
+    "modified": "2025-11-13 15:35:55",
+    "modified_utc": "2025-11-13 21:35:55",
+    "url": "https://www.grandcenter.org/venue/the-key-burger-bar-boogie/",
+    "venue": "The Key Burger Bar &#038; Boogie",
+    "description": "<h4><span class=\"sqsrte-text-color--lightAccent\">Welcome to The Key Burger Bar &amp; Boogie, a new concept in the Grand Center Arts District from the </span><a href=\"https://kranzbergartsfoundation.org/\"><span class=\"sqsrte-text-color--lightAccent\">Kranzberg Arts Foundation</span></a><span class=\"sqsrte-text-color--lightAccent\"> that is destined to be your favorite neighborhood hang. The Key offers a comfortable and welcoming gathering spot for all to enjoy great food, cold drinks, sports, live music and dancing in an art-forward atmosphere.</span></h4>",
+    "slug": "the-key-burger-bar-boogie",
+    "image": {
+     "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177.webp",
+     "id": 31217,
+     "extension": "webp",
+     "width": 1600,
+     "height": 1067,
+     "filesize": 161188,
+     "sizes": {
+      "medium": {
+       "width": 300,
+       "height": 200,
+       "mime-type": "image/webp",
+       "filesize": 13228,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-300x200.webp"
+      },
+      "large": {
+       "width": 1024,
+       "height": 683,
+       "mime-type": "image/webp",
+       "filesize": 70882,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-1024x683.webp"
+      },
+      "thumbnail": {
+       "width": 150,
+       "height": 150,
+       "mime-type": "image/webp",
+       "filesize": 6812,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-150x150.webp"
+      },
+      "medium_large": {
+       "width": 768,
+       "height": 512,
+       "mime-type": "image/webp",
+       "filesize": 47014,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-768x512.webp"
+      },
+      "1536x1536": {
+       "width": 1536,
+       "height": 1024,
+       "mime-type": "image/webp",
+       "filesize": 120298,
+       "url": "https://www.grandcenter.org/wp-content/uploads/2025/11/20251019_TheKeySTL-6177-1536x1024.webp"
+      }
+     }
+    },
+    "address": "3225 Olive Street",
+    "city": "St. Louis",
+    "country": "United States",
+    "state": "MO",
+    "zip": "63103",
+    "website": "https://www.thekeystl.com/",
+    "stateprovince": "MO",
+    "show_map": false,
+    "show_map_link": true,
+    "global_id": "www.grandcenter.org?id=31216",
+    "global_id_lineage": [
+     "www.grandcenter.org?id=31216"
+    ]
+   },
+   "organizer": [],
+   "is_virtual": false,
+   "virtual_url": null,
+   "virtual_video_source": ""
+  },
+  {
+   "id": 34509,
+   "global_id": "www.grandcenter.org?id=34509",
+   "global_id_lineage": [
+    "www.grandcenter.org?id=34509"
+   ],
+   "author": "11",
+   "status": "publish",
+   "date": "2026-05-22 11:48:01",
+   "date_utc": "2026-05-22 16:48:01",
+   "modified": "2026-05-22 11:48:01",
+   "modified_utc": "2026-05-22 16:48:01",
+   "url": "https://www.grandcenter.org/event/the-glass-menagerie/2027-02-25/",
+   "rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/34509",
+   "title": "The Glass Menagerie",
+   "description": "<div data-ogsc=\"black\" data-olk-copy-source=\"MessageBody\">A faded remnant of Southern gentility, Amanda Wingfield lives in poverty with her children, Tom and Laura. Desperate to secure their future, she pressures shy, fragile Laura to find a suitor. When Tom brings Jim to dinner, hope and heartbreak intertwine. Memory, illusion, and longing blur as each character reaches for a better life. The Glass Menagerie is a luminous, deeply moving classic of the American stage.</div>",
+   "excerpt": "",
+   "slug": "the-glass-menagerie",
+   "image": {
+    "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-6.png",
+    "id": 34510,
+    "extension": "png",
+    "width": 1025,
+    "height": 540,
+    "filesize": 217151,
+    "sizes": {
+     "medium": {
+      "width": 300,
+      "height": 158,
+      "mime-type": "image/png",
+      "filesize": 28303,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-6-300x158.png"
+     },
+     "thumbnail": {
+      "width": 150,
+      "height": 150,
+      "mime-type": "image/png",
+      "filesize": 15650,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-6-150x150.png"
+     },
+     "medium_large": {
+      "width": 768,
+      "height": 405,
+      "mime-type": "image/png",
+      "filesize": 118817,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-6-768x405.png"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2027-02-25 19:00:00",
+   "start_date_details": {
+    "year": "2027",
+    "month": "02",
+    "day": "25",
+    "hour": "19",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "end_date": "2027-02-25 21:00:00",
+   "end_date_details": {
+    "year": "2027",
+    "month": "02",
+    "day": "25",
+    "hour": "21",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_start_date": "2027-02-26 01:00:00",
+   "utc_start_date_details": {
+    "year": "2027",
+    "month": "02",
+    "day": "26",
+    "hour": "01",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_end_date": "2027-02-26 03:00:00",
+   "utc_end_date_details": {
+    "year": "2027",
+    "month": "02",
+    "day": "26",
+    "hour": "03",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "timezone": "America/Chicago",
+   "timezone_abbr": "CST",
+   "cost": "",
+   "cost_details": {
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": []
+   },
+   "website": "https://www.slu.edu/arts-and-sciences/visual-and-performing-arts/theatre/theatre-and-dance-productions/index.php",
+   "show_map": false,
+   "show_map_link": true,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Theatre &amp; Dance",
+     "slug": "theatre-dance",
+     "term_group": 0,
+     "term_taxonomy_id": 12,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 475,
+     "filter": "raw",
+     "id": 12,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/12",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 31073,
+    "author": "11",
+    "status": "publish",
+    "date": "2025-11-07 14:16:34",
+    "date_utc": "2025-11-07 20:16:34",
+    "modified": "2025-11-07 14:16:34",
+    "modified_utc": "2025-11-07 20:16:34",
+    "url": "https://www.grandcenter.org/venue/xavier-hall-main-stage/",
+    "venue": "Xavier Hall Main Stage",
+    "slug": "xavier-hall-main-stage",
+    "address": "3733 W Pine Mall",
+    "city": "St. Louis",
+    "country": "United States",
+    "province": "MO",
+    "zip": "63108",
+    "stateprovince": "MO",
+    "show_map": true,
+    "show_map_link": true,
+    "global_id": "www.grandcenter.org?id=31073",
+    "global_id_lineage": [
+     "www.grandcenter.org?id=31073"
+    ]
+   },
+   "organizer": [],
+   "is_virtual": false,
+   "virtual_url": null,
+   "virtual_video_source": ""
+  },
+  {
+   "id": 34511,
+   "global_id": "www.grandcenter.org?id=34511",
+   "global_id_lineage": [
+    "www.grandcenter.org?id=34511"
+   ],
+   "author": "11",
+   "status": "publish",
+   "date": "2026-05-22 11:48:01",
+   "date_utc": "2026-05-22 16:48:01",
+   "modified": "2026-05-22 11:48:01",
+   "modified_utc": "2026-05-22 16:48:01",
+   "url": "https://www.grandcenter.org/event/the-glass-menagerie/2027-02-26/",
+   "rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/34511",
+   "title": "The Glass Menagerie",
+   "description": "<div data-ogsc=\"black\" data-olk-copy-source=\"MessageBody\">A faded remnant of Southern gentility, Amanda Wingfield lives in poverty with her children, Tom and Laura. Desperate to secure their future, she pressures shy, fragile Laura to find a suitor. When Tom brings Jim to dinner, hope and heartbreak intertwine. Memory, illusion, and longing blur as each character reaches for a better life. The Glass Menagerie is a luminous, deeply moving classic of the American stage.</div>",
+   "excerpt": "",
+   "slug": "the-glass-menagerie-2027-02-26",
+   "image": {
+    "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-6.png",
+    "id": 34510,
+    "extension": "png",
+    "width": 1025,
+    "height": 540,
+    "filesize": 217151,
+    "sizes": {
+     "medium": {
+      "width": 300,
+      "height": 158,
+      "mime-type": "image/png",
+      "filesize": 28303,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-6-300x158.png"
+     },
+     "thumbnail": {
+      "width": 150,
+      "height": 150,
+      "mime-type": "image/png",
+      "filesize": 15650,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-6-150x150.png"
+     },
+     "medium_large": {
+      "width": 768,
+      "height": 405,
+      "mime-type": "image/png",
+      "filesize": 118817,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-6-768x405.png"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2027-02-26 10:00:00",
+   "start_date_details": {
+    "year": "2027",
+    "month": "02",
+    "day": "26",
+    "hour": "10",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "end_date": "2027-02-26 12:00:00",
+   "end_date_details": {
+    "year": "2027",
+    "month": "02",
+    "day": "26",
+    "hour": "12",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_start_date": "2027-02-26 16:00:00",
+   "utc_start_date_details": {
+    "year": "2027",
+    "month": "02",
+    "day": "26",
+    "hour": "16",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_end_date": "2027-02-26 18:00:00",
+   "utc_end_date_details": {
+    "year": "2027",
+    "month": "02",
+    "day": "26",
+    "hour": "18",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "timezone": "America/Chicago",
+   "timezone_abbr": "",
+   "cost": "",
+   "cost_details": {
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": []
+   },
+   "website": "https://www.slu.edu/arts-and-sciences/visual-and-performing-arts/theatre/theatre-and-dance-productions/index.php",
+   "show_map": false,
+   "show_map_link": true,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Theatre &amp; Dance",
+     "slug": "theatre-dance",
+     "term_group": 0,
+     "term_taxonomy_id": 12,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 475,
+     "filter": "raw",
+     "id": 12,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/12",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 31073,
+    "author": "11",
+    "status": "publish",
+    "date": "2025-11-07 14:16:34",
+    "date_utc": "2025-11-07 20:16:34",
+    "modified": "2025-11-07 14:16:34",
+    "modified_utc": "2025-11-07 20:16:34",
+    "url": "https://www.grandcenter.org/venue/xavier-hall-main-stage/",
+    "venue": "Xavier Hall Main Stage",
+    "slug": "xavier-hall-main-stage",
+    "address": "3733 W Pine Mall",
+    "city": "St. Louis",
+    "country": "United States",
+    "province": "MO",
+    "zip": "63108",
+    "stateprovince": "MO",
+    "show_map": true,
+    "show_map_link": true,
+    "global_id": "www.grandcenter.org?id=31073",
+    "global_id_lineage": [
+     "www.grandcenter.org?id=31073"
+    ]
+   },
+   "organizer": [],
+   "is_virtual": false,
+   "virtual_url": null,
+   "virtual_video_source": ""
+  },
+  {
+   "id": 34512,
+   "global_id": "www.grandcenter.org?id=34512",
+   "global_id_lineage": [
+    "www.grandcenter.org?id=34512"
+   ],
+   "author": "11",
+   "status": "publish",
+   "date": "2026-05-22 11:48:01",
+   "date_utc": "2026-05-22 16:48:01",
+   "modified": "2026-05-22 11:48:01",
+   "modified_utc": "2026-05-22 16:48:01",
+   "url": "https://www.grandcenter.org/event/the-glass-menagerie/2027-02-26/2/",
+   "rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/34512",
+   "title": "The Glass Menagerie",
+   "description": "<div data-ogsc=\"black\" data-olk-copy-source=\"MessageBody\">A faded remnant of Southern gentility, Amanda Wingfield lives in poverty with her children, Tom and Laura. Desperate to secure their future, she pressures shy, fragile Laura to find a suitor. When Tom brings Jim to dinner, hope and heartbreak intertwine. Memory, illusion, and longing blur as each character reaches for a better life. The Glass Menagerie is a luminous, deeply moving classic of the American stage.</div>",
+   "excerpt": "",
+   "slug": "the-glass-menagerie-2027-02-26-2",
+   "image": {
+    "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-6.png",
+    "id": 34510,
+    "extension": "png",
+    "width": 1025,
+    "height": 540,
+    "filesize": 217151,
+    "sizes": {
+     "medium": {
+      "width": 300,
+      "height": 158,
+      "mime-type": "image/png",
+      "filesize": 28303,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-6-300x158.png"
+     },
+     "thumbnail": {
+      "width": 150,
+      "height": 150,
+      "mime-type": "image/png",
+      "filesize": 15650,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-6-150x150.png"
+     },
+     "medium_large": {
+      "width": 768,
+      "height": 405,
+      "mime-type": "image/png",
+      "filesize": 118817,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-6-768x405.png"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2027-02-26 19:00:00",
+   "start_date_details": {
+    "year": "2027",
+    "month": "02",
+    "day": "26",
+    "hour": "19",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "end_date": "2027-02-26 21:00:00",
+   "end_date_details": {
+    "year": "2027",
+    "month": "02",
+    "day": "26",
+    "hour": "21",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_start_date": "2027-02-27 01:00:00",
+   "utc_start_date_details": {
+    "year": "2027",
+    "month": "02",
+    "day": "27",
+    "hour": "01",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_end_date": "2027-02-27 03:00:00",
+   "utc_end_date_details": {
+    "year": "2027",
+    "month": "02",
+    "day": "27",
+    "hour": "03",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "timezone": "America/Chicago",
+   "timezone_abbr": "",
+   "cost": "",
+   "cost_details": {
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": []
+   },
+   "website": "https://www.slu.edu/arts-and-sciences/visual-and-performing-arts/theatre/theatre-and-dance-productions/index.php",
+   "show_map": false,
+   "show_map_link": true,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Theatre &amp; Dance",
+     "slug": "theatre-dance",
+     "term_group": 0,
+     "term_taxonomy_id": 12,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 475,
+     "filter": "raw",
+     "id": 12,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/12",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 31073,
+    "author": "11",
+    "status": "publish",
+    "date": "2025-11-07 14:16:34",
+    "date_utc": "2025-11-07 20:16:34",
+    "modified": "2025-11-07 14:16:34",
+    "modified_utc": "2025-11-07 20:16:34",
+    "url": "https://www.grandcenter.org/venue/xavier-hall-main-stage/",
+    "venue": "Xavier Hall Main Stage",
+    "slug": "xavier-hall-main-stage",
+    "address": "3733 W Pine Mall",
+    "city": "St. Louis",
+    "country": "United States",
+    "province": "MO",
+    "zip": "63108",
+    "stateprovince": "MO",
+    "show_map": true,
+    "show_map_link": true,
+    "global_id": "www.grandcenter.org?id=31073",
+    "global_id_lineage": [
+     "www.grandcenter.org?id=31073"
+    ]
+   },
+   "organizer": [],
+   "is_virtual": false,
+   "virtual_url": null,
+   "virtual_video_source": ""
+  },
+  {
+   "id": 34513,
+   "global_id": "www.grandcenter.org?id=34513",
+   "global_id_lineage": [
+    "www.grandcenter.org?id=34513"
+   ],
+   "author": "11",
+   "status": "publish",
+   "date": "2026-05-22 11:48:01",
+   "date_utc": "2026-05-22 16:48:01",
+   "modified": "2026-05-22 11:48:01",
+   "modified_utc": "2026-05-22 16:48:01",
+   "url": "https://www.grandcenter.org/event/the-glass-menagerie/2027-02-27/",
+   "rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/34513",
+   "title": "The Glass Menagerie",
+   "description": "<div data-ogsc=\"black\" data-olk-copy-source=\"MessageBody\">A faded remnant of Southern gentility, Amanda Wingfield lives in poverty with her children, Tom and Laura. Desperate to secure their future, she pressures shy, fragile Laura to find a suitor. When Tom brings Jim to dinner, hope and heartbreak intertwine. Memory, illusion, and longing blur as each character reaches for a better life. The Glass Menagerie is a luminous, deeply moving classic of the American stage.</div>",
+   "excerpt": "",
+   "slug": "the-glass-menagerie-2027-02-27",
+   "image": {
+    "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-6.png",
+    "id": 34510,
+    "extension": "png",
+    "width": 1025,
+    "height": 540,
+    "filesize": 217151,
+    "sizes": {
+     "medium": {
+      "width": 300,
+      "height": 158,
+      "mime-type": "image/png",
+      "filesize": 28303,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-6-300x158.png"
+     },
+     "thumbnail": {
+      "width": 150,
+      "height": 150,
+      "mime-type": "image/png",
+      "filesize": 15650,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-6-150x150.png"
+     },
+     "medium_large": {
+      "width": 768,
+      "height": 405,
+      "mime-type": "image/png",
+      "filesize": 118817,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-6-768x405.png"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2027-02-27 19:00:00",
+   "start_date_details": {
+    "year": "2027",
+    "month": "02",
+    "day": "27",
+    "hour": "19",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "end_date": "2027-02-27 21:00:00",
+   "end_date_details": {
+    "year": "2027",
+    "month": "02",
+    "day": "27",
+    "hour": "21",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_start_date": "2027-02-28 01:00:00",
+   "utc_start_date_details": {
+    "year": "2027",
+    "month": "02",
+    "day": "28",
+    "hour": "01",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_end_date": "2027-02-28 03:00:00",
+   "utc_end_date_details": {
+    "year": "2027",
+    "month": "02",
+    "day": "28",
+    "hour": "03",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "timezone": "America/Chicago",
+   "timezone_abbr": "",
+   "cost": "",
+   "cost_details": {
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": []
+   },
+   "website": "https://www.slu.edu/arts-and-sciences/visual-and-performing-arts/theatre/theatre-and-dance-productions/index.php",
+   "show_map": false,
+   "show_map_link": true,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Theatre &amp; Dance",
+     "slug": "theatre-dance",
+     "term_group": 0,
+     "term_taxonomy_id": 12,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 475,
+     "filter": "raw",
+     "id": 12,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/12",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 31073,
+    "author": "11",
+    "status": "publish",
+    "date": "2025-11-07 14:16:34",
+    "date_utc": "2025-11-07 20:16:34",
+    "modified": "2025-11-07 14:16:34",
+    "modified_utc": "2025-11-07 20:16:34",
+    "url": "https://www.grandcenter.org/venue/xavier-hall-main-stage/",
+    "venue": "Xavier Hall Main Stage",
+    "slug": "xavier-hall-main-stage",
+    "address": "3733 W Pine Mall",
+    "city": "St. Louis",
+    "country": "United States",
+    "province": "MO",
+    "zip": "63108",
+    "stateprovince": "MO",
+    "show_map": true,
+    "show_map_link": true,
+    "global_id": "www.grandcenter.org?id=31073",
+    "global_id_lineage": [
+     "www.grandcenter.org?id=31073"
+    ]
+   },
+   "organizer": [],
+   "is_virtual": false,
+   "virtual_url": null,
+   "virtual_video_source": ""
+  },
+  {
+   "id": 34514,
+   "global_id": "www.grandcenter.org?id=34514",
+   "global_id_lineage": [
+    "www.grandcenter.org?id=34514"
+   ],
+   "author": "11",
+   "status": "publish",
+   "date": "2026-05-22 11:48:01",
+   "date_utc": "2026-05-22 16:48:01",
+   "modified": "2026-05-22 11:48:01",
+   "modified_utc": "2026-05-22 16:48:01",
+   "url": "https://www.grandcenter.org/event/the-glass-menagerie/2027-02-28/",
+   "rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/34514",
+   "title": "The Glass Menagerie",
+   "description": "<div data-ogsc=\"black\" data-olk-copy-source=\"MessageBody\">A faded remnant of Southern gentility, Amanda Wingfield lives in poverty with her children, Tom and Laura. Desperate to secure their future, she pressures shy, fragile Laura to find a suitor. When Tom brings Jim to dinner, hope and heartbreak intertwine. Memory, illusion, and longing blur as each character reaches for a better life. The Glass Menagerie is a luminous, deeply moving classic of the American stage.</div>",
+   "excerpt": "",
+   "slug": "the-glass-menagerie-2027-02-28",
+   "image": {
+    "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-6.png",
+    "id": 34510,
+    "extension": "png",
+    "width": 1025,
+    "height": 540,
+    "filesize": 217151,
+    "sizes": {
+     "medium": {
+      "width": 300,
+      "height": 158,
+      "mime-type": "image/png",
+      "filesize": 28303,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-6-300x158.png"
+     },
+     "thumbnail": {
+      "width": 150,
+      "height": 150,
+      "mime-type": "image/png",
+      "filesize": 15650,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-6-150x150.png"
+     },
+     "medium_large": {
+      "width": 768,
+      "height": 405,
+      "mime-type": "image/png",
+      "filesize": 118817,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-6-768x405.png"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2027-02-28 13:00:00",
+   "start_date_details": {
+    "year": "2027",
+    "month": "02",
+    "day": "28",
+    "hour": "13",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "end_date": "2027-02-28 15:00:00",
+   "end_date_details": {
+    "year": "2027",
+    "month": "02",
+    "day": "28",
+    "hour": "15",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_start_date": "2027-02-28 19:00:00",
+   "utc_start_date_details": {
+    "year": "2027",
+    "month": "02",
+    "day": "28",
+    "hour": "19",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_end_date": "2027-02-28 21:00:00",
+   "utc_end_date_details": {
+    "year": "2027",
+    "month": "02",
+    "day": "28",
+    "hour": "21",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "timezone": "America/Chicago",
+   "timezone_abbr": "",
+   "cost": "",
+   "cost_details": {
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": []
+   },
+   "website": "https://www.slu.edu/arts-and-sciences/visual-and-performing-arts/theatre/theatre-and-dance-productions/index.php",
+   "show_map": false,
+   "show_map_link": true,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Theatre &amp; Dance",
+     "slug": "theatre-dance",
+     "term_group": 0,
+     "term_taxonomy_id": 12,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 475,
+     "filter": "raw",
+     "id": 12,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/12",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 31073,
+    "author": "11",
+    "status": "publish",
+    "date": "2025-11-07 14:16:34",
+    "date_utc": "2025-11-07 20:16:34",
+    "modified": "2025-11-07 14:16:34",
+    "modified_utc": "2025-11-07 20:16:34",
+    "url": "https://www.grandcenter.org/venue/xavier-hall-main-stage/",
+    "venue": "Xavier Hall Main Stage",
+    "slug": "xavier-hall-main-stage",
+    "address": "3733 W Pine Mall",
+    "city": "St. Louis",
+    "country": "United States",
+    "province": "MO",
+    "zip": "63108",
+    "stateprovince": "MO",
+    "show_map": true,
+    "show_map_link": true,
+    "global_id": "www.grandcenter.org?id=31073",
+    "global_id_lineage": [
+     "www.grandcenter.org?id=31073"
+    ]
+   },
+   "organizer": [],
+   "is_virtual": false,
+   "virtual_url": null,
+   "virtual_video_source": ""
+  },
+  {
+   "id": 34515,
+   "global_id": "www.grandcenter.org?id=34515",
+   "global_id_lineage": [
+    "www.grandcenter.org?id=34515"
+   ],
+   "author": "11",
+   "status": "publish",
+   "date": "2026-05-22 11:50:13",
+   "date_utc": "2026-05-22 16:50:13",
+   "modified": "2026-05-22 11:50:46",
+   "modified_utc": "2026-05-22 16:50:46",
+   "url": "https://www.grandcenter.org/event/the-25th-annual-putnam-county-spelling-bee/2027-04-22/",
+   "rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/34515",
+   "title": "The 25th Annual Putnam County Spelling Bee",
+   "description": "<div data-ogsc=\"black\" data-olk-copy-source=\"MessageBody\">An eclectic group of six mid-pubescents vie for the spelling championship of a lifetime. While candidly\u00a0disclosing\u00a0hilarious and touching stories from their home lives, the tweens spell their way through a series of (potentially made-up) words, hoping never to hear the soul-crushing, pout-inducing, life un-affirming &#8220;ding&#8221; of the bell that signals a spelling mistake. Six spellers enter; one speller leaves a champion!</div>",
+   "excerpt": "",
+   "slug": "the-25th-annual-putnam-county-spelling-bee",
+   "image": {
+    "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-7.png",
+    "id": 34516,
+    "extension": "png",
+    "width": 1025,
+    "height": 540,
+    "filesize": 254129,
+    "sizes": {
+     "medium": {
+      "width": 300,
+      "height": 158,
+      "mime-type": "image/png",
+      "filesize": 35406,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-7-300x158.png"
+     },
+     "thumbnail": {
+      "width": 150,
+      "height": 150,
+      "mime-type": "image/png",
+      "filesize": 19627,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-7-150x150.png"
+     },
+     "medium_large": {
+      "width": 768,
+      "height": 405,
+      "mime-type": "image/png",
+      "filesize": 147887,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-7-768x405.png"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2027-04-22 19:00:00",
+   "start_date_details": {
+    "year": "2027",
+    "month": "04",
+    "day": "22",
+    "hour": "19",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "end_date": "2027-04-22 21:00:00",
+   "end_date_details": {
+    "year": "2027",
+    "month": "04",
+    "day": "22",
+    "hour": "21",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_start_date": "2027-04-23 00:00:00",
+   "utc_start_date_details": {
+    "year": "2027",
+    "month": "04",
+    "day": "23",
+    "hour": "00",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_end_date": "2027-04-23 02:00:00",
+   "utc_end_date_details": {
+    "year": "2027",
+    "month": "04",
+    "day": "23",
+    "hour": "02",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "timezone": "America/Chicago",
+   "timezone_abbr": "CDT",
+   "cost": "",
+   "cost_details": {
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": []
+   },
+   "website": "https://www.slu.edu/arts-and-sciences/visual-and-performing-arts/theatre/theatre-and-dance-productions/index.php",
+   "show_map": false,
+   "show_map_link": false,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Theatre &amp; Dance",
+     "slug": "theatre-dance",
+     "term_group": 0,
+     "term_taxonomy_id": 12,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 475,
+     "filter": "raw",
+     "id": 12,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/12",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 31073,
+    "author": "11",
+    "status": "publish",
+    "date": "2025-11-07 14:16:34",
+    "date_utc": "2025-11-07 20:16:34",
+    "modified": "2025-11-07 14:16:34",
+    "modified_utc": "2025-11-07 20:16:34",
+    "url": "https://www.grandcenter.org/venue/xavier-hall-main-stage/",
+    "venue": "Xavier Hall Main Stage",
+    "slug": "xavier-hall-main-stage",
+    "address": "3733 W Pine Mall",
+    "city": "St. Louis",
+    "country": "United States",
+    "province": "MO",
+    "zip": "63108",
+    "stateprovince": "MO",
+    "show_map": true,
+    "show_map_link": true,
+    "global_id": "www.grandcenter.org?id=31073",
+    "global_id_lineage": [
+     "www.grandcenter.org?id=31073"
+    ]
+   },
+   "organizer": [],
+   "is_virtual": false,
+   "virtual_url": null,
+   "virtual_video_source": ""
+  },
+  {
+   "id": 34517,
+   "global_id": "www.grandcenter.org?id=34517",
+   "global_id_lineage": [
+    "www.grandcenter.org?id=34517"
+   ],
+   "author": "11",
+   "status": "publish",
+   "date": "2026-05-22 11:50:13",
+   "date_utc": "2026-05-22 16:50:13",
+   "modified": "2026-05-22 11:50:46",
+   "modified_utc": "2026-05-22 16:50:46",
+   "url": "https://www.grandcenter.org/event/the-25th-annual-putnam-county-spelling-bee/2027-04-23/",
+   "rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/34517",
+   "title": "The 25th Annual Putnam County Spelling Bee",
+   "description": "<div data-ogsc=\"black\" data-olk-copy-source=\"MessageBody\">An eclectic group of six mid-pubescents vie for the spelling championship of a lifetime. While candidly\u00a0disclosing\u00a0hilarious and touching stories from their home lives, the tweens spell their way through a series of (potentially made-up) words, hoping never to hear the soul-crushing, pout-inducing, life un-affirming &#8220;ding&#8221; of the bell that signals a spelling mistake. Six spellers enter; one speller leaves a champion!</div>",
+   "excerpt": "",
+   "slug": "the-25th-annual-putnam-county-spelling-bee-2027-04-23",
+   "image": {
+    "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-7.png",
+    "id": 34516,
+    "extension": "png",
+    "width": 1025,
+    "height": 540,
+    "filesize": 254129,
+    "sizes": {
+     "medium": {
+      "width": 300,
+      "height": 158,
+      "mime-type": "image/png",
+      "filesize": 35406,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-7-300x158.png"
+     },
+     "thumbnail": {
+      "width": 150,
+      "height": 150,
+      "mime-type": "image/png",
+      "filesize": 19627,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-7-150x150.png"
+     },
+     "medium_large": {
+      "width": 768,
+      "height": 405,
+      "mime-type": "image/png",
+      "filesize": 147887,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-7-768x405.png"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2027-04-23 19:00:00",
+   "start_date_details": {
+    "year": "2027",
+    "month": "04",
+    "day": "23",
+    "hour": "19",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "end_date": "2027-04-23 21:00:00",
+   "end_date_details": {
+    "year": "2027",
+    "month": "04",
+    "day": "23",
+    "hour": "21",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_start_date": "2027-04-24 00:00:00",
+   "utc_start_date_details": {
+    "year": "2027",
+    "month": "04",
+    "day": "24",
+    "hour": "00",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_end_date": "2027-04-24 02:00:00",
+   "utc_end_date_details": {
+    "year": "2027",
+    "month": "04",
+    "day": "24",
+    "hour": "02",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "timezone": "America/Chicago",
+   "timezone_abbr": "",
+   "cost": "",
+   "cost_details": {
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": []
+   },
+   "website": "https://www.slu.edu/arts-and-sciences/visual-and-performing-arts/theatre/theatre-and-dance-productions/index.php",
+   "show_map": false,
+   "show_map_link": false,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Theatre &amp; Dance",
+     "slug": "theatre-dance",
+     "term_group": 0,
+     "term_taxonomy_id": 12,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 475,
+     "filter": "raw",
+     "id": 12,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/12",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 31073,
+    "author": "11",
+    "status": "publish",
+    "date": "2025-11-07 14:16:34",
+    "date_utc": "2025-11-07 20:16:34",
+    "modified": "2025-11-07 14:16:34",
+    "modified_utc": "2025-11-07 20:16:34",
+    "url": "https://www.grandcenter.org/venue/xavier-hall-main-stage/",
+    "venue": "Xavier Hall Main Stage",
+    "slug": "xavier-hall-main-stage",
+    "address": "3733 W Pine Mall",
+    "city": "St. Louis",
+    "country": "United States",
+    "province": "MO",
+    "zip": "63108",
+    "stateprovince": "MO",
+    "show_map": true,
+    "show_map_link": true,
+    "global_id": "www.grandcenter.org?id=31073",
+    "global_id_lineage": [
+     "www.grandcenter.org?id=31073"
+    ]
+   },
+   "organizer": [],
+   "is_virtual": false,
+   "virtual_url": null,
+   "virtual_video_source": ""
+  },
+  {
+   "id": 34518,
+   "global_id": "www.grandcenter.org?id=34518",
+   "global_id_lineage": [
+    "www.grandcenter.org?id=34518"
+   ],
+   "author": "11",
+   "status": "publish",
+   "date": "2026-05-22 11:50:13",
+   "date_utc": "2026-05-22 16:50:13",
+   "modified": "2026-05-22 11:50:46",
+   "modified_utc": "2026-05-22 16:50:46",
+   "url": "https://www.grandcenter.org/event/the-25th-annual-putnam-county-spelling-bee/2027-04-24/",
+   "rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/34518",
+   "title": "The 25th Annual Putnam County Spelling Bee",
+   "description": "<div data-ogsc=\"black\" data-olk-copy-source=\"MessageBody\">An eclectic group of six mid-pubescents vie for the spelling championship of a lifetime. While candidly\u00a0disclosing\u00a0hilarious and touching stories from their home lives, the tweens spell their way through a series of (potentially made-up) words, hoping never to hear the soul-crushing, pout-inducing, life un-affirming &#8220;ding&#8221; of the bell that signals a spelling mistake. Six spellers enter; one speller leaves a champion!</div>",
+   "excerpt": "",
+   "slug": "the-25th-annual-putnam-county-spelling-bee-2027-04-24",
+   "image": {
+    "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-7.png",
+    "id": 34516,
+    "extension": "png",
+    "width": 1025,
+    "height": 540,
+    "filesize": 254129,
+    "sizes": {
+     "medium": {
+      "width": 300,
+      "height": 158,
+      "mime-type": "image/png",
+      "filesize": 35406,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-7-300x158.png"
+     },
+     "thumbnail": {
+      "width": 150,
+      "height": 150,
+      "mime-type": "image/png",
+      "filesize": 19627,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-7-150x150.png"
+     },
+     "medium_large": {
+      "width": 768,
+      "height": 405,
+      "mime-type": "image/png",
+      "filesize": 147887,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-7-768x405.png"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2027-04-24 19:00:00",
+   "start_date_details": {
+    "year": "2027",
+    "month": "04",
+    "day": "24",
+    "hour": "19",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "end_date": "2027-04-24 21:00:00",
+   "end_date_details": {
+    "year": "2027",
+    "month": "04",
+    "day": "24",
+    "hour": "21",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_start_date": "2027-04-25 00:00:00",
+   "utc_start_date_details": {
+    "year": "2027",
+    "month": "04",
+    "day": "25",
+    "hour": "00",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_end_date": "2027-04-25 02:00:00",
+   "utc_end_date_details": {
+    "year": "2027",
+    "month": "04",
+    "day": "25",
+    "hour": "02",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "timezone": "America/Chicago",
+   "timezone_abbr": "",
+   "cost": "",
+   "cost_details": {
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": []
+   },
+   "website": "https://www.slu.edu/arts-and-sciences/visual-and-performing-arts/theatre/theatre-and-dance-productions/index.php",
+   "show_map": false,
+   "show_map_link": false,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Theatre &amp; Dance",
+     "slug": "theatre-dance",
+     "term_group": 0,
+     "term_taxonomy_id": 12,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 475,
+     "filter": "raw",
+     "id": 12,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/12",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 31073,
+    "author": "11",
+    "status": "publish",
+    "date": "2025-11-07 14:16:34",
+    "date_utc": "2025-11-07 20:16:34",
+    "modified": "2025-11-07 14:16:34",
+    "modified_utc": "2025-11-07 20:16:34",
+    "url": "https://www.grandcenter.org/venue/xavier-hall-main-stage/",
+    "venue": "Xavier Hall Main Stage",
+    "slug": "xavier-hall-main-stage",
+    "address": "3733 W Pine Mall",
+    "city": "St. Louis",
+    "country": "United States",
+    "province": "MO",
+    "zip": "63108",
+    "stateprovince": "MO",
+    "show_map": true,
+    "show_map_link": true,
+    "global_id": "www.grandcenter.org?id=31073",
+    "global_id_lineage": [
+     "www.grandcenter.org?id=31073"
+    ]
+   },
+   "organizer": [],
+   "is_virtual": false,
+   "virtual_url": null,
+   "virtual_video_source": ""
+  },
+  {
+   "id": 34519,
+   "global_id": "www.grandcenter.org?id=34519",
+   "global_id_lineage": [
+    "www.grandcenter.org?id=34519"
+   ],
+   "author": "11",
+   "status": "publish",
+   "date": "2026-05-22 11:50:13",
+   "date_utc": "2026-05-22 16:50:13",
+   "modified": "2026-05-22 11:50:46",
+   "modified_utc": "2026-05-22 16:50:46",
+   "url": "https://www.grandcenter.org/event/the-25th-annual-putnam-county-spelling-bee/2027-04-25/",
+   "rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/34519",
+   "title": "The 25th Annual Putnam County Spelling Bee",
+   "description": "<div data-ogsc=\"black\" data-olk-copy-source=\"MessageBody\">An eclectic group of six mid-pubescents vie for the spelling championship of a lifetime. While candidly\u00a0disclosing\u00a0hilarious and touching stories from their home lives, the tweens spell their way through a series of (potentially made-up) words, hoping never to hear the soul-crushing, pout-inducing, life un-affirming &#8220;ding&#8221; of the bell that signals a spelling mistake. Six spellers enter; one speller leaves a champion!</div>",
+   "excerpt": "",
+   "slug": "the-25th-annual-putnam-county-spelling-bee-2027-04-25",
+   "image": {
+    "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-7.png",
+    "id": 34516,
+    "extension": "png",
+    "width": 1025,
+    "height": 540,
+    "filesize": 254129,
+    "sizes": {
+     "medium": {
+      "width": 300,
+      "height": 158,
+      "mime-type": "image/png",
+      "filesize": 35406,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-7-300x158.png"
+     },
+     "thumbnail": {
+      "width": 150,
+      "height": 150,
+      "mime-type": "image/png",
+      "filesize": 19627,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-7-150x150.png"
+     },
+     "medium_large": {
+      "width": 768,
+      "height": 405,
+      "mime-type": "image/png",
+      "filesize": 147887,
+      "url": "https://www.grandcenter.org/wp-content/uploads/2026/05/download-7-768x405.png"
+     }
+    }
+   },
+   "all_day": false,
+   "start_date": "2027-04-25 13:00:00",
+   "start_date_details": {
+    "year": "2027",
+    "month": "04",
+    "day": "25",
+    "hour": "13",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "end_date": "2027-04-25 15:00:00",
+   "end_date_details": {
+    "year": "2027",
+    "month": "04",
+    "day": "25",
+    "hour": "15",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_start_date": "2027-04-25 18:00:00",
+   "utc_start_date_details": {
+    "year": "2027",
+    "month": "04",
+    "day": "25",
+    "hour": "18",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "utc_end_date": "2027-04-25 20:00:00",
+   "utc_end_date_details": {
+    "year": "2027",
+    "month": "04",
+    "day": "25",
+    "hour": "20",
+    "minutes": "00",
+    "seconds": "00"
+   },
+   "timezone": "America/Chicago",
+   "timezone_abbr": "",
+   "cost": "",
+   "cost_details": {
+    "currency_symbol": "$",
+    "currency_code": "USD",
+    "currency_position": "prefix",
+    "values": []
+   },
+   "website": "https://www.slu.edu/arts-and-sciences/visual-and-performing-arts/theatre/theatre-and-dance-productions/index.php",
+   "show_map": false,
+   "show_map_link": false,
+   "hide_from_listings": false,
+   "sticky": false,
+   "featured": false,
+   "categories": [
+    {
+     "name": "Theatre &amp; Dance",
+     "slug": "theatre-dance",
+     "term_group": 0,
+     "term_taxonomy_id": 12,
+     "taxonomy": "tribe_events_cat",
+     "description": "",
+     "parent": 0,
+     "count": 475,
+     "filter": "raw",
+     "id": 12,
+     "urls": {
+      "self": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories/12",
+      "collection": "https://www.grandcenter.org/wp-json/tribe/events/v1/categories"
+     }
+    }
+   ],
+   "tags": [],
+   "venue": {
+    "id": 31073,
+    "author": "11",
+    "status": "publish",
+    "date": "2025-11-07 14:16:34",
+    "date_utc": "2025-11-07 20:16:34",
+    "modified": "2025-11-07 14:16:34",
+    "modified_utc": "2025-11-07 20:16:34",
+    "url": "https://www.grandcenter.org/venue/xavier-hall-main-stage/",
+    "venue": "Xavier Hall Main Stage",
+    "slug": "xavier-hall-main-stage",
+    "address": "3733 W Pine Mall",
+    "city": "St. Louis",
+    "country": "United States",
+    "province": "MO",
+    "zip": "63108",
+    "stateprovince": "MO",
+    "show_map": true,
+    "show_map_link": true,
+    "global_id": "www.grandcenter.org?id=31073",
+    "global_id_lineage": [
+     "www.grandcenter.org?id=31073"
+    ]
+   },
+   "organizer": [],
+   "is_virtual": false,
+   "virtual_url": null,
+   "virtual_video_source": ""
+  }
+ ],
+ "rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/?page=7&per_page=50&start_date=2026-06-22 00:00:00&end_date=2028-11-19 23:59:59&status=publish",
+ "previous_rest_url": "https://www.grandcenter.org/wp-json/tribe/events/v1/events/?per_page=50&start_date=2026-06-22+00%3A00%3A00&end_date=2028-11-19+23%3A59%3A59&status=publish&page=6",
+ "total": 329,
+ "total_pages": 7
+}
